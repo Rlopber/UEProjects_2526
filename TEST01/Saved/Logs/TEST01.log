@@ -1553,3 +1553,1120 @@ LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variab
 [2025.10.08-16.15.51:298][797]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.10.08-16.15.51:300][797]AssetCheck: /Game/MyProject/HouseLvl Validando recurso
 [2025.10.08-16.15.51:328][797]LogSourceControl: Display: Uncontrolled Changelist persistency file saved D:/DOCUMENTOS/ESTUDIOS DE PROGRAMACION/ESPECIALIZACION/UNREAL ENGINE/UEProjects_2526/TEST01/Saved/SourceControl/UncontrolledChangelists.json
+[2025.10.08-16.18.05:972][ 55]Cmd: SELECT NONE
+[2025.10.08-16.18.16:473][703]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_Door_400x300.Wall_Door_400x300
+[2025.10.08-16.18.16:473][703]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_Door_400x300.Wall_Door_400x300
+[2025.10.08-16.18.16:473][703]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Architecture/Wall_Door_400x300.Wall_Door_400x300 as actor: StaticMeshActor /Game/MyProject/HouseLvl.HouseLvl:PersistentLevel.StaticMeshActor_21
+[2025.10.08-16.18.20:446][977]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2025.10.08-16.18.20:447][977]LogEditorActor: Deleted 0 Actors (0.025 secs)
+[2025.10.08-16.18.20:457][977]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_Door_400x300.Wall_Door_400x300
+[2025.10.08-16.18.20:457][977]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_Door_400x300.Wall_Door_400x300
+[2025.10.08-16.18.20:459][977]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Architecture/Wall_Door_400x300.Wall_Door_400x300 as actor: StaticMeshActor /Game/MyProject/HouseLvl.HouseLvl:PersistentLevel.StaticMeshActor_22
+[2025.10.08-16.18.40:293][ 24]Cmd: SELECT NONE
+[2025.10.08-16.20.23:245][710]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2484.294189
+[2025.10.08-16.20.23:411][722]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.08-16.20.23:411][722]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2484.447754, Update Interval: 348.817413
+[2025.10.08-16.23.12:278][ 81]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_Window_400x300.Wall_Window_400x300
+[2025.10.08-16.23.12:278][ 81]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_Window_400x300.Wall_Window_400x300
+[2025.10.08-16.23.12:278][ 81]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Architecture/Wall_Window_400x300.Wall_Window_400x300 as actor: StaticMeshActor /Game/MyProject/HouseLvl.HouseLvl:PersistentLevel.StaticMeshActor_23
+[2025.10.08-16.23.13:131][129]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2025.10.08-16.23.13:136][129]LogEditorActor: Deleted 0 Actors (0.042 secs)
+[2025.10.08-16.23.13:146][129]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_Window_400x300.Wall_Window_400x300
+[2025.10.08-16.23.13:146][129]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_Window_400x300.Wall_Window_400x300
+[2025.10.08-16.23.13:148][129]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Architecture/Wall_Window_400x300.Wall_Window_400x300 as actor: StaticMeshActor /Game/MyProject/HouseLvl.HouseLvl:PersistentLevel.StaticMeshActor_24
+[2025.10.08-16.26.44:485][926]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2865.539795
+[2025.10.08-16.26.44:623][936]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.08-16.26.44:623][936]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2865.665527, Update Interval: 347.383636
+[2025.10.08-16.26.58:656][907]Cmd: TRANSACTION UNDO
+[2025.10.08-16.26.58:656][907]LogEditorTransaction: Undo Escoger ubicación
+[2025.10.08-16.28.15:705][151]Cmd: TRANSACTION UNDO
+[2025.10.08-16.28.15:705][151]LogEditorTransaction: Undo Hacer clic en elementos
+[2025.10.08-16.28.16:209][163]Cmd: TRANSACTION UNDO
+[2025.10.08-16.28.16:209][163]LogEditorTransaction: Undo Escoger ubicación
+[2025.10.08-16.28.16:606][201]Cmd: TRANSACTION UNDO
+[2025.10.08-16.28.16:606][201]LogEditorTransaction: Undo Mover elementos
+[2025.10.08-16.28.17:039][226]Cmd: TRANSACTION UNDO
+[2025.10.08-16.28.17:040][226]LogEditorTransaction: Undo Mover elementos
+[2025.10.08-16.29.10:609][374]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2025.10.08-16.29.10:622][374]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MyProject/HouseLvl_Auto4
+[2025.10.08-16.29.10:622][374]LogSavePackage: Moving 'D:/DOCUMENTOS/ESTUDIOS DE PROGRAMACION/ESPECIALIZACION/UNREAL ENGINE/UEProjects_2526/TEST01/Saved/HouseLvl_Auto4A2434C554A700F383EE0B29C959E49D0.tmp' to 'D:/DOCUMENTOS/ESTUDIOS DE PROGRAMACION/ESPECIALIZACION/UNREAL ENGINE/UEProjects_2526/TEST01/Saved/Autosaves/Game/MyProject/HouseLvl_Auto4.umap'
+[2025.10.08-16.29.10:624][374]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MyProject/HouseLvl' took 0.041
+[2025.10.08-16.29.10:624][374]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.041
+[2025.10.08-16.29.15:533][643]LogStreaming: Display: FlushAsyncLoading(475): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.08-16.29.15:539][643]LogStaticMesh: Display: Malla estática de construcción Wall_400x400 (Estimación de memoria necesaria: 0.02689 MB)...
+[2025.10.08-16.29.15:541][643]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Architecture/Wall_400x400.Wall_400x400
+[2025.10.08-16.29.15:730][645]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_400x400.Wall_400x400
+[2025.10.08-16.29.15:730][645]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_400x400.Wall_400x400
+[2025.10.08-16.29.15:730][645]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Architecture/Wall_400x400.Wall_400x400 as actor: StaticMeshActor /Game/MyProject/HouseLvl.HouseLvl:PersistentLevel.StaticMeshActor_25
+[2025.10.08-16.29.17:973][795]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2025.10.08-16.29.17:974][795]LogEditorActor: Deleted 0 Actors (0.023 secs)
+[2025.10.08-16.29.17:984][795]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_400x400.Wall_400x400
+[2025.10.08-16.29.17:984][795]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_400x400.Wall_400x400
+[2025.10.08-16.29.17:985][795]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Architecture/Wall_400x400.Wall_400x400 as actor: StaticMeshActor /Game/MyProject/HouseLvl.HouseLvl:PersistentLevel.StaticMeshActor_26
+[2025.10.08-16.29.31:299][680]Cmd: TRANSACTION UNDO
+[2025.10.08-16.29.31:299][680]LogEditorTransaction: Undo Hacer clic en elementos
+[2025.10.08-16.30.22:429][225]Cmd: DELETE
+[2025.10.08-16.30.22:429][225]Cmd: ACTOR DELETE
+[2025.10.08-16.30.22:432][225]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.08-16.30.22:463][225]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2025.10.08-16.30.22:468][225]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2025.10.08-16.30.27:907][583]LogStreaming: Display: FlushAsyncLoading(476): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.08-16.30.27:910][583]LogStaticMesh: Display: Malla estática de construcción Wall_400x300 (Estimación de memoria necesaria: 0.02689 MB)...
+[2025.10.08-16.30.27:912][583]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Architecture/Wall_400x300.Wall_400x300
+[2025.10.08-16.30.28:044][584]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_400x300.Wall_400x300
+[2025.10.08-16.30.28:045][584]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_400x300.Wall_400x300
+[2025.10.08-16.30.28:045][584]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Architecture/Wall_400x300.Wall_400x300 as actor: StaticMeshActor /Game/MyProject/HouseLvl.HouseLvl:PersistentLevel.StaticMeshActor_27
+[2025.10.08-16.30.33:730][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2025.10.08-16.30.33:733][ 49]LogEditorActor: Deleted 0 Actors (0.025 secs)
+[2025.10.08-16.30.33:742][ 49]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_400x300.Wall_400x300
+[2025.10.08-16.30.33:743][ 49]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_400x300.Wall_400x300
+[2025.10.08-16.30.33:744][ 49]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Architecture/Wall_400x300.Wall_400x300 as actor: StaticMeshActor /Game/MyProject/HouseLvl.HouseLvl:PersistentLevel.StaticMeshActor_28
+[2025.10.08-16.31.12:508][659]Cmd: DUPLICATE
+[2025.10.08-16.31.12:508][659]Cmd: ACTOR DUPLICATE
+[2025.10.08-16.31.33:143][ 57]Cmd: DUPLICATE
+[2025.10.08-16.31.33:143][ 57]Cmd: ACTOR DUPLICATE
+[2025.10.08-16.31.49:644][182]Cmd: TRANSACTION UNDO
+[2025.10.08-16.31.49:644][182]LogEditorTransaction: Undo Rotar elementos
+[2025.10.08-16.31.52:030][319]Cmd: TRANSACTION UNDO
+[2025.10.08-16.31.52:030][319]LogEditorTransaction: Undo Rotar elementos
+[2025.10.08-16.33.08:049][845]LogShaderCompilers: Display: ================================================
+[2025.10.08-16.33.08:049][845]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.10.08-16.33.08:050][845]LogShaderCompilers: Display: Total job queries 2570, among them cache hits 645 (25.10%), DDC hits 1822 (70.89%), Duplicates 92 (3.58%)
+[2025.10.08-16.33.08:050][845]LogShaderCompilers: Display: Tracking 1833 distinct input hashes that result in 1155 distinct outputs (63.01%)
+[2025.10.08-16.33.08:050][845]LogShaderCompilers: Display: RAM used: 11,73 MiB of 819,20 MiB budget. Usage: 1.43%
+[2025.10.08-16.33.08:050][845]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.10.08-16.33.08:050][845]LogShaderCompilers: Display: Shaders Compiled: 11
+[2025.10.08-16.33.08:050][845]LogShaderCompilers: Display: Jobs assigned 11, completed 11 (100%)
+[2025.10.08-16.33.08:050][845]LogShaderCompilers: Display: Average time worker was idle: 967.16 s
+[2025.10.08-16.33.08:050][845]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.12 s
+[2025.10.08-16.33.08:050][845]LogShaderCompilers: Display: Job execution time: average 2.05 s, max 3.68 s
+[2025.10.08-16.33.08:050][845]LogShaderCompilers: Display: Job life time (pending + execution): average 2.10 s, max 3.72
+[2025.10.08-16.33.08:050][845]LogShaderCompilers: Display: Shader code size: total 93,883 KiB, numShaders 13, average 7,222 KiB, min 1,727 KiB, max 13,957 KiB
+[2025.10.08-16.33.08:050][845]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 12.86 s
+[2025.10.08-16.33.08:050][845]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.03%
+[2025.10.08-16.33.08:050][845]LogShaderCompilers: Display: Jobs were issued in 11 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.10.08-16.33.08:050][845]LogShaderCompilers: Display: Average processing rate: 0.86 jobs/sec
+[2025.10.08-16.33.08:050][845]LogShaderCompilers: Display: Total thread time: 16,452 s
+[2025.10.08-16.33.08:050][845]LogShaderCompilers: Display: Total thread preprocess time: 54,48 s
+[2025.10.08-16.33.08:050][845]LogShaderCompilers: Display: Percentage time preprocessing: 331.15%
+[2025.10.08-16.33.08:050][845]LogShaderCompilers: Display: Effective parallelization: 1.28 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.159876
+[2025.10.08-16.33.08:050][845]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.10.08-16.33.08:050][845]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    1 times, average 3.06 sec, max 3.06 sec, min 3.06 sec)
+[2025.10.08-16.33.08:050][845]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    1 times, average 2.15 sec, max 2.15 sec, min 2.15 sec)
+[2025.10.08-16.33.08:050][845]LogShaderCompilers: Display:                                                  FVelocityPS (compiled    1 times, average 1.49 sec, max 1.49 sec, min 1.49 sec)
+[2025.10.08-16.33.08:050][845]LogShaderCompilers: Display:                                                 FDepthOnlyPS (compiled    1 times, average 1.48 sec, max 1.48 sec, min 1.48 sec)
+[2025.10.08-16.33.08:051][845]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    4 times, average 1.10 sec, max 1.21 sec, min 0.98 sec)
+[2025.10.08-16.33.08:051][845]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.10.08-16.33.08:051][845]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 26.67% of total time (compiled    4 times, average 1.10 sec, max 1.21 sec, min 0.98 sec)
+[2025.10.08-16.33.08:051][845]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 18.62% of total time (compiled    1 times, average 3.06 sec, max 3.06 sec, min 3.06 sec)
+[2025.10.08-16.33.08:051][845]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 13.10% of total time (compiled    1 times, average 2.15 sec, max 2.15 sec, min 2.15 sec)
+[2025.10.08-16.33.08:051][845]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 9.51% of total time (compiled    2 times, average 0.78 sec, max 0.83 sec, min 0.73 sec)
+[2025.10.08-16.33.08:051][845]LogShaderCompilers: Display:                                                  FVelocityPS - 9.07% of total time (compiled    1 times, average 1.49 sec, max 1.49 sec, min 1.49 sec)
+[2025.10.08-16.33.08:051][845]LogShaderCompilers: Display: === Material stats ===
+[2025.10.08-16.33.08:051][845]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.10.08-16.33.08:051][845]LogShaderCompilers: Display: Materials Translated:    146
+[2025.10.08-16.33.08:051][845]LogShaderCompilers: Display: Material Total Translate Time: 0.21 s
+[2025.10.08-16.33.08:051][845]LogShaderCompilers: Display: Material Translation Only: 0.07 s (36%)
+[2025.10.08-16.33.08:051][845]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2025.10.08-16.33.08:051][845]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2025.10.08-16.33.08:051][845]LogShaderCompilers: Display: ================================================
+[2025.10.08-16.33.12:055][114]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3253.118652
+[2025.10.08-16.33.12:219][125]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.08-16.33.12:219][125]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3253.267090, Update Interval: 346.191589
+[2025.10.08-16.35.29:663][706]Cmd: TRANSACTION UNDO
+[2025.10.08-16.35.29:663][706]LogEditorTransaction: Undo Grupo seleccionado
+[2025.10.08-16.35.30:842][763]Cmd: TRANSACTION UNDO
+[2025.10.08-16.35.30:842][763]LogEditorTransaction: Undo Haciendo clic en actores
+[2025.10.08-16.35.31:322][791]Cmd: TRANSACTION UNDO
+[2025.10.08-16.35.31:322][791]LogEditorTransaction: Undo Grupo seleccionado
+[2025.10.08-16.35.31:967][824]Cmd: TRANSACTION UNDO
+[2025.10.08-16.35.31:967][824]LogEditorTransaction: Undo Hacer clic en elementos
+[2025.10.08-16.35.32:424][848]Cmd: TRANSACTION UNDO
+[2025.10.08-16.35.32:424][848]LogEditorTransaction: Undo Mover elementos
+[2025.10.08-16.35.32:976][876]Cmd: TRANSACTION UNDO
+[2025.10.08-16.35.32:976][876]LogEditorTransaction: Undo Haciendo clic en actores
+[2025.10.08-16.35.33:497][903]Cmd: TRANSACTION UNDO
+[2025.10.08-16.35.33:497][903]LogEditorTransaction: Undo Haciendo clic en actores
+[2025.10.08-16.35.35:951][ 36]Cmd: TRANSACTION UNDO
+[2025.10.08-16.35.35:951][ 36]LogEditorTransaction: Undo Haciendo clic en actores
+[2025.10.08-16.35.36:709][ 82]Cmd: TRANSACTION UNDO
+[2025.10.08-16.35.36:709][ 82]LogEditorTransaction: Undo Haciendo clic en actores
+[2025.10.08-16.35.37:480][133]Cmd: TRANSACTION UNDO
+[2025.10.08-16.35.37:480][133]LogEditorTransaction: Undo Haciendo clic en actores
+[2025.10.08-16.35.38:070][153]Cmd: TRANSACTION UNDO
+[2025.10.08-16.35.38:070][153]LogEditorTransaction: Undo Establecer visibilidad de artículo
+[2025.10.08-16.35.38:596][186]Cmd: TRANSACTION UNDO
+[2025.10.08-16.35.38:597][186]LogEditorTransaction: Undo Establecer visibilidad de artículo
+[2025.10.08-16.35.39:084][218]Cmd: TRANSACTION UNDO
+[2025.10.08-16.35.39:084][218]LogEditorTransaction: Undo Grupo seleccionado
+[2025.10.08-16.37.07:301][307]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_400x300.Wall_400x300
+[2025.10.08-16.37.07:301][307]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_400x300.Wall_400x300
+[2025.10.08-16.37.07:301][307]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Architecture/Wall_400x300.Wall_400x300 as actor: StaticMeshActor /Game/MyProject/HouseLvl.HouseLvl:PersistentLevel.StaticMeshActor_33
+[2025.10.08-16.37.11:668][629]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2025.10.08-16.37.11:673][629]LogEditorActor: Deleted 0 Actors (0.036 secs)
+[2025.10.08-16.37.11:684][629]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_400x300.Wall_400x300
+[2025.10.08-16.37.11:684][629]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_400x300.Wall_400x300
+[2025.10.08-16.37.11:686][629]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Architecture/Wall_400x300.Wall_400x300 as actor: StaticMeshActor /Game/MyProject/HouseLvl.HouseLvl:PersistentLevel.StaticMeshActor_34
+[2025.10.08-16.39.33:960][634]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3635.010010
+[2025.10.08-16.39.34:094][647]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.08-16.39.34:094][648]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3635.133789, Update Interval: 336.041748
+[2025.10.08-16.40.45:897][462]LogDerivedDataCache: C:/Users/Ralowl/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.10.08-16.41.28:360][837]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SSceneOutlinerTreeView [SSceneOutliner.cpp(265)].
+[2025.10.08-16.41.28:405][837]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2025.10.08-16.41.28:419][837]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MyProject/HouseLvl_Auto5
+[2025.10.08-16.41.28:419][837]LogSavePackage: Moving 'D:/DOCUMENTOS/ESTUDIOS DE PROGRAMACION/ESPECIALIZACION/UNREAL ENGINE/UEProjects_2526/TEST01/Saved/HouseLvl_Auto54AF0C29049FCD61417CE52BBDD1E794E.tmp' to 'D:/DOCUMENTOS/ESTUDIOS DE PROGRAMACION/ESPECIALIZACION/UNREAL ENGINE/UEProjects_2526/TEST01/Saved/Autosaves/Game/MyProject/HouseLvl_Auto5.umap'
+[2025.10.08-16.41.28:421][837]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MyProject/HouseLvl' took 0.041
+[2025.10.08-16.41.28:421][837]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.041
+[2025.10.08-16.41.50:196][ 83]Cmd: EDIT COPY
+[2025.10.08-16.41.50:875][130]Cmd: EDIT PASTE
+[2025.10.08-16.43.04:735][465]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_400x200.Wall_400x200
+[2025.10.08-16.43.04:735][465]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_400x200.Wall_400x200
+[2025.10.08-16.43.04:735][465]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Architecture/Wall_400x200.Wall_400x200 as actor: StaticMeshActor /Game/MyProject/HouseLvl.HouseLvl:PersistentLevel.StaticMeshActor_36
+[2025.10.08-16.43.08:576][758]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.10.08-16.43.08:579][758]LogEditorActor: Deleted 0 Actors (0.027 secs)
+[2025.10.08-16.43.08:589][758]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_400x200.Wall_400x200
+[2025.10.08-16.43.08:589][758]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_400x200.Wall_400x200
+[2025.10.08-16.43.08:591][758]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Architecture/Wall_400x200.Wall_400x200 as actor: StaticMeshActor /Game/MyProject/HouseLvl.HouseLvl:PersistentLevel.StaticMeshActor_37
+[2025.10.08-16.44.54:288][ 92]Cmd: DUPLICATE
+[2025.10.08-16.44.54:289][ 92]Cmd: ACTOR DUPLICATE
+[2025.10.08-16.45.41:503][262]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4002.558594
+[2025.10.08-16.45.41:663][279]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.08-16.45.41:663][280]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4002.710449, Update Interval: 326.988739
+[2025.10.08-16.46.39:606][651]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_400x300.Wall_400x300
+[2025.10.08-16.46.39:606][651]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_400x300.Wall_400x300
+[2025.10.08-16.46.39:606][651]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Architecture/Wall_400x300.Wall_400x300 as actor: StaticMeshActor /Game/MyProject/HouseLvl.HouseLvl:PersistentLevel.StaticMeshActor_39
+[2025.10.08-16.46.44:564][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.10.08-16.46.44:568][ 55]LogEditorActor: Deleted 0 Actors (0.028 secs)
+[2025.10.08-16.46.44:578][ 55]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_400x300.Wall_400x300
+[2025.10.08-16.46.44:578][ 55]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_400x300.Wall_400x300
+[2025.10.08-16.46.44:579][ 55]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Architecture/Wall_400x300.Wall_400x300 as actor: StaticMeshActor /Game/MyProject/HouseLvl.HouseLvl:PersistentLevel.StaticMeshActor_40
+[2025.10.08-16.47.07:666][814]Cmd: DUPLICATE
+[2025.10.08-16.47.07:666][814]Cmd: ACTOR DUPLICATE
+[2025.10.08-16.49.49:689][433]Cmd: TRANSACTION UNDO
+[2025.10.08-16.49.49:689][433]LogEditorTransaction: Undo Hacer clic en elementos
+[2025.10.08-16.49.51:537][531]Cmd: TRANSACTION UNDO
+[2025.10.08-16.49.51:537][531]LogEditorTransaction: Undo Hacer clic en elementos
+[2025.10.08-16.49.52:286][571]Cmd: TRANSACTION UNDO
+[2025.10.08-16.49.52:286][571]LogEditorTransaction: Undo Establecer escala
+[2025.10.08-16.50.01:666][173]Cmd: TRANSACTION UNDO
+[2025.10.08-16.50.01:666][173]LogEditorTransaction: Undo Rotar elementos
+[2025.10.08-16.52.04:998][412]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4386.059082
+[2025.10.08-16.52.05:140][425]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.08-16.52.05:140][425]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4386.190430, Update Interval: 300.166626
+[2025.10.08-16.52.16:684][461]Cmd: TRANSACTION UNDO
+[2025.10.08-16.52.16:685][461]LogEditorTransaction: Undo Establecer escala
+[2025.10.08-16.52.16:966][469]Cmd: TRANSACTION UNDO
+[2025.10.08-16.52.16:966][469]LogEditorTransaction: Undo Hacer clic en elementos
+[2025.10.08-16.52.17:214][471]Cmd: TRANSACTION UNDO
+[2025.10.08-16.52.17:214][471]LogEditorTransaction: Undo Hacer clic en elementos
+[2025.10.08-16.52.17:493][483]Cmd: TRANSACTION UNDO
+[2025.10.08-16.52.17:493][483]LogEditorTransaction: Undo Escoger ubicación
+[2025.10.08-16.52.17:778][504]Cmd: TRANSACTION UNDO
+[2025.10.08-16.52.17:778][504]LogEditorTransaction: Undo Escoger ubicación
+[2025.10.08-16.52.18:043][524]Cmd: TRANSACTION UNDO
+[2025.10.08-16.52.18:043][524]LogEditorTransaction: Undo Escoger ubicación
+[2025.10.08-16.52.18:270][541]Cmd: TRANSACTION UNDO
+[2025.10.08-16.52.18:270][541]LogEditorTransaction: Undo Escoger ubicación
+[2025.10.08-16.52.18:492][557]Cmd: TRANSACTION UNDO
+[2025.10.08-16.52.18:492][557]LogEditorTransaction: Undo Escoger ubicación
+[2025.10.08-16.52.18:680][570]Cmd: TRANSACTION UNDO
+[2025.10.08-16.52.18:680][570]LogEditorTransaction: Undo Escoger ubicación
+[2025.10.08-16.52.18:880][584]Cmd: TRANSACTION UNDO
+[2025.10.08-16.52.18:880][584]LogEditorTransaction: Undo Escoger ubicación
+[2025.10.08-16.52.19:122][602]Cmd: TRANSACTION UNDO
+[2025.10.08-16.52.19:123][602]LogEditorTransaction: Undo Haciendo clic en actores
+[2025.10.08-16.52.20:716][718]Cmd: TRANSACTION REDO
+[2025.10.08-16.52.20:717][718]LogEditorTransaction: Redo Haciendo clic en actores
+[2025.10.08-16.52.57:450][962]Cmd: TRANSACTION UNDO
+[2025.10.08-16.52.57:451][962]LogEditorTransaction: Undo Hacer clic en elementos
+[2025.10.08-16.52.58:275][  0]Cmd: TRANSACTION UNDO
+[2025.10.08-16.52.58:275][  0]LogEditorTransaction: Undo Escoger ubicación
+[2025.10.08-16.54.13:014][676]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.08-16.54.13:122][676]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2025.10.08-16.54.13:138][676]LogSavePackage: Moving output files for package: /Game/MyProject/HouseLvl
+[2025.10.08-16.54.13:139][676]LogSavePackage: Moving 'D:/DOCUMENTOS/ESTUDIOS DE PROGRAMACION/ESPECIALIZACION/UNREAL ENGINE/UEProjects_2526/TEST01/Saved/HouseLvlF1D0201843918265A32F959124C6146A.tmp' to 'D:/DOCUMENTOS/ESTUDIOS DE PROGRAMACION/ESPECIALIZACION/UNREAL ENGINE/UEProjects_2526/TEST01/Content/MyProject/HouseLvl.umap'
+[2025.10.08-16.54.13:148][676]LogFileHelpers: Saving map 'HouseLvl' took 0.072
+[2025.10.08-16.54.13:161][676]LogFileHelpers: InternalPromptForCheckoutAndSave took 147.612 ms (total: 291.646 ms)
+[2025.10.08-16.54.13:207][676]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.08-16.54.13:207][676]LogContentValidation: Enabled validators:
+[2025.10.08-16.54.13:207][676]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.08-16.54.13:207][676]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.08-16.54.13:207][676]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.08-16.54.13:207][676]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.08-16.54.13:207][676]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.08-16.54.13:207][676]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.08-16.54.13:208][676]AssetCheck: /Game/MyProject/HouseLvl Validando recurso
+[2025.10.08-16.54.20:349][170]Cmd: EDIT COPY
+[2025.10.08-16.54.42:939][780]Cmd: DUPLICATE
+[2025.10.08-16.54.42:939][780]Cmd: ACTOR DUPLICATE
+[2025.10.08-16.55.01:629][264]Cmd: TRANSACTION UNDO
+[2025.10.08-16.55.01:629][264]LogEditorTransaction: Undo Mover elementos
+[2025.10.08-16.55.04:519][437]Cmd: TRANSACTION UNDO
+[2025.10.08-16.55.04:519][437]LogEditorTransaction: Undo Hacer clic en elementos
+[2025.10.08-16.55.05:083][466]Cmd: TRANSACTION UNDO
+[2025.10.08-16.55.05:083][466]LogEditorTransaction: Undo Mover artículos del esquematizador del mundo
+[2025.10.08-16.55.05:549][492]Cmd: TRANSACTION UNDO
+[2025.10.08-16.55.05:550][492]LogEditorTransaction: Undo Duplicar elementos
+[2025.10.08-16.55.10:472][800]Cmd: DUPLICATE
+[2025.10.08-16.55.10:472][800]Cmd: ACTOR DUPLICATE
+[2025.10.08-16.55.52:084][650]Cmd: TRANSACTION UNDO
+[2025.10.08-16.55.52:084][650]LogEditorTransaction: Undo Hacer clic en elementos
+[2025.10.08-16.55.52:619][659]Cmd: TRANSACTION UNDO
+[2025.10.08-16.55.52:620][659]LogEditorTransaction: Undo Escoger ubicación
+[2025.10.08-16.56.18:021][358]Cmd: TRANSACTION UNDO
+[2025.10.08-16.56.18:021][358]LogEditorTransaction: Undo Hacer clic en elementos
+[2025.10.08-16.56.18:764][384]Cmd: TRANSACTION UNDO
+[2025.10.08-16.56.18:764][384]LogEditorTransaction: Undo Escoger ubicación
+[2025.10.08-16.57.29:700][483]Cmd: DUPLICATE
+[2025.10.08-16.57.29:701][483]Cmd: ACTOR DUPLICATE
+[2025.10.08-16.57.34:887][822]Cmd: TRANSACTION UNDO
+[2025.10.08-16.57.34:888][822]LogEditorTransaction: Undo Rotar elementos
+[2025.10.08-16.57.45:129][492]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4726.175781
+[2025.10.08-16.57.45:336][507]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.08-16.57.45:336][507]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4726.369141, Update Interval: 316.584381
+[2025.10.08-16.58.38:218][494]Cmd: EDIT COPY
+[2025.10.08-16.58.38:472][512]Cmd: EDIT PASTE
+[2025.10.08-16.58.54:348][589]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.08-16.58.54:454][589]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.10.08-16.58.54:472][589]LogSavePackage: Moving output files for package: /Game/MyProject/HouseLvl
+[2025.10.08-16.58.54:472][589]LogSavePackage: Moving 'D:/DOCUMENTOS/ESTUDIOS DE PROGRAMACION/ESPECIALIZACION/UNREAL ENGINE/UEProjects_2526/TEST01/Saved/HouseLvl0CEF92FB4F1806079CB9DBA0FF8B73B4.tmp' to 'D:/DOCUMENTOS/ESTUDIOS DE PROGRAMACION/ESPECIALIZACION/UNREAL ENGINE/UEProjects_2526/TEST01/Content/MyProject/HouseLvl.umap'
+[2025.10.08-16.58.54:483][589]LogFileHelpers: Saving map 'HouseLvl' took 0.074
+[2025.10.08-16.58.54:494][589]LogFileHelpers: InternalPromptForCheckoutAndSave took 147.124 ms (total: 438.770 ms)
+[2025.10.08-16.58.54:539][589]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.08-16.58.54:539][589]LogContentValidation: Enabled validators:
+[2025.10.08-16.58.54:539][589]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.08-16.58.54:540][589]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.08-16.58.54:540][589]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.08-16.58.54:540][589]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.08-16.58.54:540][589]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.08-16.58.54:540][589]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.08-16.58.54:540][589]AssetCheck: /Game/MyProject/HouseLvl Validando recurso
+[2025.10.08-17.01.26:172][904]Cmd: DUPLICATE
+[2025.10.08-17.01.26:172][904]Cmd: ACTOR DUPLICATE
+[2025.10.08-17.03.40:657][186]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5081.718750
+[2025.10.08-17.03.40:884][192]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.08-17.03.40:884][193]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5081.909180, Update Interval: 317.285675
+[2025.10.08-17.05.26:656][371]Cmd: TRANSACTION UNDO
+[2025.10.08-17.05.26:657][371]LogEditorTransaction: Undo Establecer escala
+[2025.10.08-17.06.49:860][495]Cmd: TRANSACTION UNDO
+[2025.10.08-17.06.49:860][495]LogEditorTransaction: Undo Hacer clic en elementos
+[2025.10.08-17.06.50:537][518]Cmd: TRANSACTION UNDO
+[2025.10.08-17.06.50:537][518]LogEditorTransaction: Undo Escoger ubicación
+[2025.10.08-17.06.50:977][549]Cmd: TRANSACTION UNDO
+[2025.10.08-17.06.50:977][549]LogEditorTransaction: Undo Escoger ubicación
+[2025.10.08-17.07.16:073][755]LogPSOHitching: Encountered 100 PSO creation hitches so far (26 graphics, 74 compute). 0 of them were precached.
+[2025.10.08-17.07.18:860][935]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.08-17.07.18:969][935]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2025.10.08-17.07.18:987][935]LogSavePackage: Moving output files for package: /Game/MyProject/HouseLvl
+[2025.10.08-17.07.18:988][935]LogSavePackage: Moving 'D:/DOCUMENTOS/ESTUDIOS DE PROGRAMACION/ESPECIALIZACION/UNREAL ENGINE/UEProjects_2526/TEST01/Saved/HouseLvl2BCD0EED4EAF622030C3029BB6353B46.tmp' to 'D:/DOCUMENTOS/ESTUDIOS DE PROGRAMACION/ESPECIALIZACION/UNREAL ENGINE/UEProjects_2526/TEST01/Content/MyProject/HouseLvl.umap'
+[2025.10.08-17.07.18:998][935]LogFileHelpers: Saving map 'HouseLvl' took 0.081
+[2025.10.08-17.07.19:021][935]LogFileHelpers: InternalPromptForCheckoutAndSave took 160.905 ms (total: 599.676 ms)
+[2025.10.08-17.07.19:064][935]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.08-17.07.19:064][935]LogContentValidation: Enabled validators:
+[2025.10.08-17.07.19:064][935]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.08-17.07.19:064][935]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.08-17.07.19:064][935]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.08-17.07.19:064][935]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.08-17.07.19:064][935]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.08-17.07.19:064][935]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.08-17.07.19:064][935]AssetCheck: /Game/MyProject/HouseLvl Validando recurso
+[2025.10.08-17.08.16:761][101]Cmd: DUPLICATE
+[2025.10.08-17.08.16:761][101]Cmd: ACTOR DUPLICATE
+[2025.10.08-17.08.35:905][710]Cmd: EDIT CUT
+[2025.10.08-17.08.38:816][911]Cmd: EDIT PASTE
+[2025.10.08-17.08.43:649][245]Cmd: TRANSACTION UNDO
+[2025.10.08-17.08.43:649][245]LogEditorTransaction: Undo Haciendo clic en actores
+[2025.10.08-17.08.44:060][257]Cmd: TRANSACTION UNDO
+[2025.10.08-17.08.44:060][257]LogEditorTransaction: Undo Pegar
+[2025.10.08-17.08.44:473][280]Cmd: TRANSACTION UNDO
+[2025.10.08-17.08.44:473][280]LogEditorTransaction: Undo Haciendo clic en actores
+[2025.10.08-17.09.14:131][264]Cmd: DUPLICATE
+[2025.10.08-17.09.14:131][264]Cmd: ACTOR DUPLICATE
+[2025.10.08-17.09.14:131][264]LogConsoleManager: Warning: Performance warning: Many (31) failed FindConsoleObject() for 'ACTOR'. 
+[2025.10.08-17.09.23:498][881]Cmd: DELETE
+[2025.10.08-17.09.23:498][881]Cmd: ACTOR DELETE
+[2025.10.08-17.09.23:502][881]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.08-17.09.23:534][881]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2025.10.08-17.09.23:538][881]LogEditorActor: Deleted 1 Actors (0.040 secs)
+[2025.10.08-17.09.55:576][680]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5456.688965
+[2025.10.08-17.09.55:724][690]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.08-17.09.55:724][690]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5456.822754, Update Interval: 314.784393
+[2025.10.08-17.10.55:354][566]LogStreaming: Display: FlushAsyncLoading(477): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.08-17.10.55:358][566]LogStaticMesh: Display: Malla estática de construcción Wall_Door_400x400 (Estimación de memoria necesaria: 0.077385 MB)...
+[2025.10.08-17.10.55:364][566]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/Architecture/Wall_Door_400x400.Wall_Door_400x400
+[2025.10.08-17.11.02:745][ 25]Cmd: TRANSACTION UNDO
+[2025.10.08-17.11.02:745][ 25]LogEditorTransaction: Undo Hacer clic en elementos
+[2025.10.08-17.11.03:466][ 40]Cmd: TRANSACTION UNDO
+[2025.10.08-17.11.03:466][ 40]LogEditorTransaction: Undo Hacer clic en elementos
+[2025.10.08-17.11.34:624][150]Cmd: TRANSACTION UNDO
+[2025.10.08-17.11.34:625][150]LogEditorTransaction: Undo Establecer escala
+[2025.10.08-17.11.41:000][651]Cmd: DELETE
+[2025.10.08-17.11.41:000][651]Cmd: ACTOR DELETE
+[2025.10.08-17.11.41:003][651]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.08-17.11.41:038][651]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2025.10.08-17.11.41:042][651]LogEditorActor: Deleted 1 Actors (0.042 secs)
+[2025.10.08-17.12.02:462][182]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_400x300.Wall_400x300
+[2025.10.08-17.12.02:462][182]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_400x300.Wall_400x300
+[2025.10.08-17.12.02:462][182]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Architecture/Wall_400x300.Wall_400x300 as actor: StaticMeshActor /Game/MyProject/HouseLvl.HouseLvl:PersistentLevel.StaticMeshActor_54
+[2025.10.08-17.12.03:704][253]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2025.10.08-17.12.03:709][253]LogEditorActor: Deleted 0 Actors (0.028 secs)
+[2025.10.08-17.12.04:054][286]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_400x300.Wall_400x300
+[2025.10.08-17.12.04:054][286]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_400x300.Wall_400x300
+[2025.10.08-17.12.04:054][286]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Architecture/Wall_400x300.Wall_400x300 as actor: StaticMeshActor /Game/MyProject/HouseLvl.HouseLvl:PersistentLevel.StaticMeshActor_55
+[2025.10.08-17.12.04:716][326]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2025.10.08-17.12.04:717][326]LogEditorActor: Deleted 0 Actors (0.023 secs)
+[2025.10.08-17.12.04:728][326]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_400x300.Wall_400x300
+[2025.10.08-17.12.04:728][326]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_400x300.Wall_400x300
+[2025.10.08-17.12.04:730][326]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Architecture/Wall_400x300.Wall_400x300 as actor: StaticMeshActor /Game/MyProject/HouseLvl.HouseLvl:PersistentLevel.StaticMeshActor_56
+[2025.10.08-17.14.54:401][402]Cmd: DUPLICATE
+[2025.10.08-17.14.54:401][402]Cmd: ACTOR DUPLICATE
+[2025.10.08-17.15.33:902][118]Cmd: DUPLICATE
+[2025.10.08-17.15.33:902][118]Cmd: ACTOR DUPLICATE
+[2025.10.08-17.15.57:505][653]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5818.614746
+[2025.10.08-17.15.57:676][664]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.08-17.15.57:677][664]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5818.771484, Update Interval: 344.459351
+[2025.10.08-17.18.01:033][ 16]Cmd: DUPLICATE
+[2025.10.08-17.18.01:033][ 16]Cmd: ACTOR DUPLICATE
+[2025.10.08-17.18.06:385][342]Cmd: TRANSACTION UNDO
+[2025.10.08-17.18.06:385][342]LogEditorTransaction: Undo Mover elementos
+[2025.10.08-17.19.30:936][588]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.08-17.19.31:042][588]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2025.10.08-17.19.31:064][588]LogSavePackage: Moving output files for package: /Game/MyProject/HouseLvl
+[2025.10.08-17.19.31:064][588]LogSavePackage: Moving 'D:/DOCUMENTOS/ESTUDIOS DE PROGRAMACION/ESPECIALIZACION/UNREAL ENGINE/UEProjects_2526/TEST01/Saved/HouseLvl98D3E4A643271F9C5901028F2210F1A3.tmp' to 'D:/DOCUMENTOS/ESTUDIOS DE PROGRAMACION/ESPECIALIZACION/UNREAL ENGINE/UEProjects_2526/TEST01/Content/MyProject/HouseLvl.umap'
+[2025.10.08-17.19.31:076][588]LogFileHelpers: Saving map 'HouseLvl' took 0.081
+[2025.10.08-17.19.31:105][588]LogFileHelpers: InternalPromptForCheckoutAndSave took 169.482 ms (total: 769.158 ms)
+[2025.10.08-17.19.31:160][588]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.08-17.19.31:160][588]LogContentValidation: Enabled validators:
+[2025.10.08-17.19.31:160][588]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.08-17.19.31:160][588]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.08-17.19.31:160][588]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.08-17.19.31:160][588]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.08-17.19.31:160][588]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.08-17.19.31:160][588]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.08-17.19.31:160][588]AssetCheck: /Game/MyProject/HouseLvl Validando recurso
+[2025.10.08-17.20.36:670][872]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_400x300.Wall_400x300
+[2025.10.08-17.20.36:670][872]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_400x300.Wall_400x300
+[2025.10.08-17.20.36:670][872]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Architecture/Wall_400x300.Wall_400x300 as actor: StaticMeshActor /Game/MyProject/HouseLvl.HouseLvl:PersistentLevel.StaticMeshActor_62
+[2025.10.08-17.20.37:696][917]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2025.10.08-17.20.37:701][917]LogEditorActor: Deleted 0 Actors (0.042 secs)
+[2025.10.08-17.20.37:718][917]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_400x300.Wall_400x300
+[2025.10.08-17.20.37:718][917]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_400x300.Wall_400x300
+[2025.10.08-17.20.37:720][917]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Architecture/Wall_400x300.Wall_400x300 as actor: StaticMeshActor /Game/MyProject/HouseLvl.HouseLvl:PersistentLevel.StaticMeshActor_63
+[2025.10.08-17.20.49:365][621]Cmd: TRANSACTION UNDO
+[2025.10.08-17.20.49:365][621]LogEditorTransaction: Undo Mover elementos
+[2025.10.08-17.22.12:513][541]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6193.591797
+[2025.10.08-17.22.12:661][555]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.08-17.22.12:661][556]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6193.727539, Update Interval: 344.437378
+[2025.10.08-17.23.31:264][968]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.08-17.23.31:376][968]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2025.10.08-17.23.31:396][968]LogSavePackage: Moving output files for package: /Game/MyProject/HouseLvl
+[2025.10.08-17.23.31:396][968]LogSavePackage: Moving 'D:/DOCUMENTOS/ESTUDIOS DE PROGRAMACION/ESPECIALIZACION/UNREAL ENGINE/UEProjects_2526/TEST01/Saved/HouseLvlBFF73A0A4AE50F6386F2C7AC4B907E1B.tmp' to 'D:/DOCUMENTOS/ESTUDIOS DE PROGRAMACION/ESPECIALIZACION/UNREAL ENGINE/UEProjects_2526/TEST01/Content/MyProject/HouseLvl.umap'
+[2025.10.08-17.23.31:407][968]LogFileHelpers: Saving map 'HouseLvl' took 0.078
+[2025.10.08-17.23.31:432][968]LogFileHelpers: InternalPromptForCheckoutAndSave took 167.363 ms (total: 936.521 ms)
+[2025.10.08-17.23.31:482][968]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.08-17.23.31:483][968]LogContentValidation: Enabled validators:
+[2025.10.08-17.23.31:483][968]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.08-17.23.31:483][968]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.08-17.23.31:483][968]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.08-17.23.31:483][968]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.08-17.23.31:483][968]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.08-17.23.31:483][968]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.08-17.23.31:483][968]AssetCheck: /Game/MyProject/HouseLvl Validando recurso
+[2025.10.08-17.23.50:058][575]Cmd: DUPLICATE
+[2025.10.08-17.23.50:058][575]Cmd: ACTOR DUPLICATE
+[2025.10.08-17.23.59:298][195]Cmd: TRANSACTION UNDO
+[2025.10.08-17.23.59:298][195]LogEditorTransaction: Undo Rotar elementos
+[2025.10.08-17.26.08:475][495]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_400x300.Wall_400x300
+[2025.10.08-17.26.08:475][495]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_400x300.Wall_400x300
+[2025.10.08-17.26.08:476][495]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Architecture/Wall_400x300.Wall_400x300 as actor: StaticMeshActor /Game/MyProject/HouseLvl.HouseLvl:PersistentLevel.StaticMeshActor_65
+[2025.10.08-17.26.09:659][568]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2025.10.08-17.26.09:662][568]LogEditorActor: Deleted 0 Actors (0.026 secs)
+[2025.10.08-17.26.09:672][568]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_400x300.Wall_400x300
+[2025.10.08-17.26.09:672][568]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_400x300.Wall_400x300
+[2025.10.08-17.26.09:674][568]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Architecture/Wall_400x300.Wall_400x300 as actor: StaticMeshActor /Game/MyProject/HouseLvl.HouseLvl:PersistentLevel.StaticMeshActor_66
+[2025.10.08-17.26.54:869][766]Cmd: DUPLICATE
+[2025.10.08-17.26.54:869][766]Cmd: ACTOR DUPLICATE
+[2025.10.08-17.27.24:692][747]Cmd: DUPLICATE
+[2025.10.08-17.27.24:693][747]Cmd: ACTOR DUPLICATE
+[2025.10.08-17.27.46:791][209]Cmd: TRANSACTION UNDO
+[2025.10.08-17.27.46:791][209]LogEditorTransaction: Undo Hacer clic en elementos
+[2025.10.08-17.27.47:613][255]Cmd: TRANSACTION UNDO
+[2025.10.08-17.27.47:613][255]LogEditorTransaction: Undo Escoger ubicación
+[2025.10.08-17.28.32:638][776]Cmd: DUPLICATE
+[2025.10.08-17.28.32:638][776]Cmd: ACTOR DUPLICATE
+[2025.10.08-17.28.46:152][945]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6587.302246
+[2025.10.08-17.28.46:322][960]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.08-17.28.46:323][961]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6587.458984, Update Interval: 310.785248
+[2025.10.08-17.29.08:366][868]Cmd: DUPLICATE
+[2025.10.08-17.29.08:366][868]Cmd: ACTOR DUPLICATE
+[2025.10.08-17.30.08:634][242]Cmd: DUPLICATE
+[2025.10.08-17.30.08:635][242]Cmd: ACTOR DUPLICATE
+[2025.10.08-17.31.00:668][866]Cmd: TRANSACTION UNDO
+[2025.10.08-17.31.00:668][866]LogEditorTransaction: Undo Mover elementos
+[2025.10.08-17.31.01:169][881]Cmd: TRANSACTION UNDO
+[2025.10.08-17.31.01:169][881]LogEditorTransaction: Undo Mover elementos
+[2025.10.08-17.31.01:601][916]Cmd: TRANSACTION UNDO
+[2025.10.08-17.31.01:601][916]LogEditorTransaction: Undo Selección de marquesina
+[2025.10.08-17.31.39:658][231]Cmd: TRANSACTION UNDO
+[2025.10.08-17.31.39:658][231]LogEditorTransaction: Undo Hacer clic en el fondo
+[2025.10.08-17.31.40:208][244]Cmd: TRANSACTION UNDO
+[2025.10.08-17.31.40:208][244]LogEditorTransaction: Undo Escoger ubicación
+[2025.10.08-17.32.59:101][ 62]Cmd: TRANSACTION UNDO
+[2025.10.08-17.32.59:101][ 62]LogEditorTransaction: Undo Escoger ubicación
+[2025.10.08-17.33.25:944][813]Cmd: DUPLICATE
+[2025.10.08-17.33.25:944][813]Cmd: ACTOR DUPLICATE
+[2025.10.08-17.33.49:484][407]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.08-17.33.49:591][407]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2025.10.08-17.33.49:612][407]LogSavePackage: Moving output files for package: /Game/MyProject/HouseLvl
+[2025.10.08-17.33.49:613][407]LogSavePackage: Moving 'D:/DOCUMENTOS/ESTUDIOS DE PROGRAMACION/ESPECIALIZACION/UNREAL ENGINE/UEProjects_2526/TEST01/Saved/HouseLvl404EA8A944515BD783DDD398D8CB222D.tmp' to 'D:/DOCUMENTOS/ESTUDIOS DE PROGRAMACION/ESPECIALIZACION/UNREAL ENGINE/UEProjects_2526/TEST01/Content/MyProject/HouseLvl.umap'
+[2025.10.08-17.33.49:624][407]LogFileHelpers: Saving map 'HouseLvl' took 0.080
+[2025.10.08-17.33.49:648][407]LogFileHelpers: InternalPromptForCheckoutAndSave took 164.678 ms (total: 1.10 sec)
+[2025.10.08-17.33.49:703][407]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.08-17.33.49:703][407]LogContentValidation: Enabled validators:
+[2025.10.08-17.33.49:703][407]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.08-17.33.49:703][407]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.08-17.33.49:703][407]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.08-17.33.49:703][407]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.08-17.33.49:703][407]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.08-17.33.49:703][407]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.08-17.33.49:703][407]AssetCheck: /Game/MyProject/HouseLvl Validando recurso
+[2025.10.08-17.34.23:591][862]Cmd: DUPLICATE
+[2025.10.08-17.34.23:591][862]Cmd: ACTOR DUPLICATE
+[2025.10.08-17.34.42:086][527]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6943.245117
+[2025.10.08-17.34.42:258][536]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.08-17.34.42:258][536]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6943.399414, Update Interval: 338.900116
+[2025.10.08-17.35.43:401][923]Cmd: TRANSACTION UNDO
+[2025.10.08-17.35.43:401][923]LogEditorTransaction: Undo Mover elementos
+[2025.10.08-17.39.13:871][243]Cmd: DUPLICATE
+[2025.10.08-17.39.13:872][243]Cmd: ACTOR DUPLICATE
+[2025.10.08-17.39.54:525][475]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_400x300.Wall_400x300
+[2025.10.08-17.39.54:525][475]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_400x300.Wall_400x300
+[2025.10.08-17.39.54:525][475]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Architecture/Wall_400x300.Wall_400x300 as actor: StaticMeshActor /Game/MyProject/HouseLvl.HouseLvl:PersistentLevel.StaticMeshActor_80
+[2025.10.08-17.39.55:350][532]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2025.10.08-17.39.55:354][532]LogEditorActor: Deleted 0 Actors (0.029 secs)
+[2025.10.08-17.39.55:365][532]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_400x300.Wall_400x300
+[2025.10.08-17.39.55:365][532]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_400x300.Wall_400x300
+[2025.10.08-17.39.55:366][532]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Architecture/Wall_400x300.Wall_400x300 as actor: StaticMeshActor /Game/MyProject/HouseLvl.HouseLvl:PersistentLevel.StaticMeshActor_81
+[2025.10.08-17.40.45:897][490]LogDerivedDataCache: C:/Users/Ralowl/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.10.08-17.40.55:963][387]Cmd: TRANSACTION UNDO
+[2025.10.08-17.40.55:963][387]LogEditorTransaction: Undo Escoger ubicación
+[2025.10.08-17.40.57:195][462]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7318.351562
+[2025.10.08-17.40.57:354][476]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.08-17.40.57:354][477]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7318.500000, Update Interval: 319.704590
+[2025.10.08-17.41.09:007][487]Cmd: TRANSACTION UNDO
+[2025.10.08-17.41.09:007][487]LogEditorTransaction: Undo Hacer clic en el fondo
+[2025.10.08-17.41.09:551][496]Cmd: TRANSACTION UNDO
+[2025.10.08-17.41.09:551][496]LogEditorTransaction: Undo Establecer escala
+[2025.10.08-17.41.09:960][530]Cmd: TRANSACTION UNDO
+[2025.10.08-17.41.09:960][530]LogEditorTransaction: Undo Establecer escala
+[2025.10.08-17.41.10:431][572]Cmd: TRANSACTION UNDO
+[2025.10.08-17.41.10:431][572]LogEditorTransaction: Undo Escoger ubicación
+[2025.10.08-17.41.57:003][618]Cmd: TRANSACTION UNDO
+[2025.10.08-17.41.57:003][618]LogEditorTransaction: Undo Escalar elementos
+[2025.10.08-17.42.15:518][183]Cmd: DUPLICATE
+[2025.10.08-17.42.15:519][183]Cmd: ACTOR DUPLICATE
+[2025.10.08-17.42.54:545][657]Cmd: DUPLICATE
+[2025.10.08-17.42.54:545][657]Cmd: ACTOR DUPLICATE
+[2025.10.08-17.43.38:614][304]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.08-17.43.38:720][304]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2025.10.08-17.43.38:744][304]LogSavePackage: Moving output files for package: /Game/MyProject/HouseLvl
+[2025.10.08-17.43.38:745][304]LogSavePackage: Moving 'D:/DOCUMENTOS/ESTUDIOS DE PROGRAMACION/ESPECIALIZACION/UNREAL ENGINE/UEProjects_2526/TEST01/Saved/HouseLvl6238C53540284694E0FAFBA88DC95210.tmp' to 'D:/DOCUMENTOS/ESTUDIOS DE PROGRAMACION/ESPECIALIZACION/UNREAL ENGINE/UEProjects_2526/TEST01/Content/MyProject/HouseLvl.umap'
+[2025.10.08-17.43.38:756][304]LogFileHelpers: Saving map 'HouseLvl' took 0.082
+[2025.10.08-17.43.38:770][304]LogFileHelpers: InternalPromptForCheckoutAndSave took 155.501 ms (total: 1.25 sec)
+[2025.10.08-17.43.38:817][304]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.08-17.43.38:817][304]LogContentValidation: Enabled validators:
+[2025.10.08-17.43.38:817][304]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.08-17.43.38:817][304]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.08-17.43.38:817][304]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.08-17.43.38:817][304]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.08-17.43.38:817][304]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.08-17.43.38:817][304]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.08-17.43.38:817][304]AssetCheck: /Game/MyProject/HouseLvl Validando recurso
+[2025.10.08-17.44.35:586][115]Cmd: DUPLICATE
+[2025.10.08-17.44.35:586][115]Cmd: ACTOR DUPLICATE
+[2025.10.08-17.46.19:170][189]Cmd: TRANSACTION UNDO
+[2025.10.08-17.46.19:170][189]LogEditorTransaction: Undo Escoger ubicación
+[2025.10.08-17.46.52:146][119]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7673.303223
+[2025.10.08-17.46.52:444][128]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.08-17.46.52:444][128]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7673.538086, Update Interval: 357.775208
+[2025.10.08-17.46.53:093][173]Cmd: DELETE
+[2025.10.08-17.46.53:093][173]Cmd: ACTOR DELETE
+[2025.10.08-17.46.53:096][173]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.08-17.46.53:134][173]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2025.10.08-17.46.53:137][173]LogEditorActor: Deleted 1 Actors (0.045 secs)
+[2025.10.08-17.47.31:600][743]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.10.08-17.47.32:663][813]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.10.08-17.47.37:802][163]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.10.08-17.47.39:002][242]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.10.08-17.47.43:086][513]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.10.08-17.47.43:296][524]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.10.08-17.47.45:309][655]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.10.08-17.47.47:292][788]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.10.08-17.47.55:261][286]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.10.08-17.47.56:615][379]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.10.08-17.48.00:248][635]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.10.08-17.48.09:762][230]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.10.08-17.48.10:621][287]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.08-17.48.10:724][287]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2025.10.08-17.48.10:751][287]LogSavePackage: Moving output files for package: /Game/MyProject/HouseLvl
+[2025.10.08-17.48.10:752][287]LogSavePackage: Moving 'D:/DOCUMENTOS/ESTUDIOS DE PROGRAMACION/ESPECIALIZACION/UNREAL ENGINE/UEProjects_2526/TEST01/Saved/HouseLvl868A794C4B0E9714B590C0A677C04990.tmp' to 'D:/DOCUMENTOS/ESTUDIOS DE PROGRAMACION/ESPECIALIZACION/UNREAL ENGINE/UEProjects_2526/TEST01/Content/MyProject/HouseLvl.umap'
+[2025.10.08-17.48.10:762][287]LogFileHelpers: Saving map 'HouseLvl' took 0.083
+[2025.10.08-17.48.10:792][287]LogFileHelpers: InternalPromptForCheckoutAndSave took 170.355 ms (total: 1.42 sec)
+[2025.10.08-17.48.10:850][287]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.08-17.48.10:850][287]LogContentValidation: Enabled validators:
+[2025.10.08-17.48.10:850][287]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.08-17.48.10:850][287]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.08-17.48.10:850][287]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.08-17.48.10:850][287]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.08-17.48.10:850][287]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.08-17.48.10:850][287]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.08-17.48.10:850][287]AssetCheck: /Game/MyProject/HouseLvl Validando recurso
+[2025.10.08-17.48.11:724][350]LogDebuggerCommands: Repeating last play command: Visor seleccionado
+[2025.10.08-17.48.11:743][350]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.08-17.48.11:761][350]LogOnline: OSS: Created online subsystem instance for: NULL
+[2025.10.08-17.48.11:761][350]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2025.10.08-17.48.11:763][350]LogPlayLevel: Creating play world package: /Game/MyProject/UEDPIE_0_HouseLvl
+[2025.10.08-17.48.11:802][350]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018835s)
+[2025.10.08-17.48.11:802][350]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyProject/HouseLvl.HouseLvl to /Game/MyProject/UEDPIE_0_HouseLvl.HouseLvl (0.038255s)
+[2025.10.08-17.48.11:825][350]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.10.08-17.48.11:827][350]LogChaosDD: Creating Chaos Debug Draw Scene for world HouseLvl
+[2025.10.08-17.48.11:832][350]LogPlayLevel: PIE: World Init took: (0.004606s)
+[2025.10.08-17.48.11:840][350]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2025.10.08-17.48.11:840][350]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.08-17.48.11:840][350]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.08-17.48.11:840][350]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.08-17.48.11:840][350]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.08-17.48.11:840][350]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.08-17.48.11:840][350]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.08-17.48.11:840][350]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.08-17.48.11:840][350]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.08-17.48.11:840][350]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.08-17.48.11:841][350]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.08-17.48.11:841][350]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.08-17.48.11:843][350]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.08-17.48.11:900][350]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (G733 Gaming Headset)
+[2025.10.08-17.48.11:901][350]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.08-17.48.11:901][350]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.08-17.48.11:902][350]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.08-17.48.11:903][350]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2025.10.08-17.48.11:903][350]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2025.10.08-17.48.11:905][350]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2025.10.08-17.48.11:906][350]LogInit: FAudioDevice initialized with ID 2.
+[2025.10.08-17.48.11:906][350]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2025.10.08-17.48.11:906][350]LogAudio: Display: Audio Device (ID: 2) registered with world 'HouseLvl'.
+[2025.10.08-17.48.11:906][350]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2025.10.08-17.48.11:928][350]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.10.08-17.48.11:935][350]LogWorld: Bringing World /Game/MyProject/UEDPIE_0_HouseLvl.HouseLvl up for play (max tick rate 0) at 2025.10.08-19.48.11
+[2025.10.08-17.48.11:936][350]LogWorld: Bringing up level for play took: 0.006657
+[2025.10.08-17.48.11:939][350]LogOnline: OSS: Created online subsystem instance for: :Context_3
+[2025.10.08-17.48.12:061][350]PIE: El servidor ha iniciado sesión
+[2025.10.08-17.48.12:064][350]PIE: Tiempo de inicio total de la reproducción en el editor de 0,33 segundos.
+[2025.10.08-17.48.12:185][351]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.10.08-17.48.12:386][353]LogPSOHitching: Encountered 150 PSO creation hitches so far (28 graphics, 122 compute). 0 of them were precached.
+[2025.10.08-17.49.08:811][367]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.08-17.49.08:811][367]LogWorld: BeginTearingDown for /Game/MyProject/UEDPIE_0_HouseLvl
+[2025.10.08-17.49.08:813][367]LogWorld: UWorld::CleanupWorld for HouseLvl, bSessionEnded=true, bCleanupResources=true
+[2025.10.08-17.49.08:815][367]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.08-17.49.08:819][367]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.08-17.49.08:824][367]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.08-17.49.08:847][367]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.08-17.49.08:847][367]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2025.10.08-17.49.08:851][367]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2, StreamState=4
+[2025.10.08-17.49.08:853][367]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2, StreamState=2
+[2025.10.08-17.49.08:866][367]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2025.10.08-17.49.08:961][368]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2025.10.08-17.49.57:132][ 10]LogStreaming: Display: FlushAsyncLoading(478): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.08-17.49.57:139][ 10]LogStaticMesh: Display: Malla estática de construcción Shape_Cylinder (Estimación de memoria necesaria: 0.815813 MB)...
+[2025.10.08-17.49.57:146][ 10]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/Shapes/Shape_Cylinder.Shape_Cylinder
+[2025.10.08-17.49.57:303][ 11]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Shapes/Shape_Cylinder.Shape_Cylinder
+[2025.10.08-17.49.57:303][ 11]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Shapes/Shape_Cylinder.Shape_Cylinder
+[2025.10.08-17.49.57:303][ 11]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Shapes/Shape_Cylinder.Shape_Cylinder as actor: StaticMeshActor /Game/MyProject/HouseLvl.HouseLvl:PersistentLevel.StaticMeshActor_89
+[2025.10.08-17.49.58:513][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2025.10.08-17.49.58:517][ 85]LogEditorActor: Deleted 0 Actors (0.028 secs)
+[2025.10.08-17.49.58:526][ 85]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Shapes/Shape_Cylinder.Shape_Cylinder
+[2025.10.08-17.49.58:526][ 85]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Shapes/Shape_Cylinder.Shape_Cylinder
+[2025.10.08-17.49.58:528][ 85]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Shapes/Shape_Cylinder.Shape_Cylinder as actor: StaticMeshActor /Game/MyProject/HouseLvl.HouseLvl:PersistentLevel.StaticMeshActor_90
+[2025.10.08-17.50.04:272][448]LogPhysics: Warning: Scale for /Game/MyProject/HouseLvl.HouseLvl:PersistentLevel.StaticMeshActor_90.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2025.10.08-17.50.04:272][448]LogPhysics: Warning: Scale for /Game/MyProject/HouseLvl.HouseLvl:PersistentLevel.StaticMeshActor_90.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2025.10.08-17.50.06:358][580]Cmd: TRANSACTION UNDO
+[2025.10.08-17.50.06:358][580]LogEditorTransaction: Undo Establecer escala
+[2025.10.08-17.50.59:005][656]LogStreaming: Display: FlushAsyncLoading(479): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.08-17.50.59:008][656]LogStaticMesh: Display: Malla estática de construcción Shape_Sphere (Estimación de memoria necesaria: 1.522745 MB)...
+[2025.10.08-17.50.59:019][656]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/Shapes/Shape_Sphere.Shape_Sphere
+[2025.10.08-17.50.59:055][656]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Shapes/Shape_Sphere.Shape_Sphere
+[2025.10.08-17.50.59:056][656]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Shapes/Shape_Sphere.Shape_Sphere
+[2025.10.08-17.50.59:056][656]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Shapes/Shape_Sphere.Shape_Sphere as actor: StaticMeshActor /Game/MyProject/HouseLvl.HouseLvl:PersistentLevel.StaticMeshActor_91
+[2025.10.08-17.51.01:992][830]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2025.10.08-17.51.01:995][830]LogEditorActor: Deleted 0 Actors (0.027 secs)
+[2025.10.08-17.51.02:005][830]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Shapes/Shape_Sphere.Shape_Sphere
+[2025.10.08-17.51.02:005][830]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Shapes/Shape_Sphere.Shape_Sphere
+[2025.10.08-17.51.02:007][830]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Shapes/Shape_Sphere.Shape_Sphere as actor: StaticMeshActor /Game/MyProject/HouseLvl.HouseLvl:PersistentLevel.StaticMeshActor_92
+[2025.10.08-17.51.29:525][654]Cmd: TRANSACTION UNDO
+[2025.10.08-17.51.29:525][654]LogEditorTransaction: Undo Establecer escala
+[2025.10.08-17.53.28:161][159]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8069.314941
+[2025.10.08-17.53.28:285][173]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.08-17.53.28:285][173]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8069.432129, Update Interval: 355.132904
+[2025.10.08-17.53.59:187][393]Cmd: DUPLICATE
+[2025.10.08-17.53.59:187][393]Cmd: ACTOR DUPLICATE
+[2025.10.08-17.54.01:318][513]Cmd: TRANSACTION UNDO
+[2025.10.08-17.54.01:318][513]LogEditorTransaction: Undo Duplicar elementos
+[2025.10.08-17.54.12:410][101]Cmd: SELECT NONE
+[2025.10.08-17.54.27:853][147]Cmd: TRANSACTION UNDO
+[2025.10.08-17.54.27:853][147]LogEditorTransaction: Undo Haciendo clic en actores
+[2025.10.08-17.54.28:558][175]Cmd: TRANSACTION UNDO
+[2025.10.08-17.54.28:558][175]LogEditorTransaction: Undo Grupo seleccionado
+[2025.10.08-17.54.29:165][213]Cmd: TRANSACTION UNDO
+[2025.10.08-17.54.29:165][213]LogEditorTransaction: Undo Establecer visibilidad de artículo
+[2025.10.08-17.54.40:289][856]Cmd: DUPLICATE
+[2025.10.08-17.54.40:289][856]Cmd: ACTOR DUPLICATE
+[2025.10.08-17.54.54:902][830]Cmd: TRANSACTION UNDO
+[2025.10.08-17.54.54:902][830]LogEditorTransaction: Undo Acoplar elementos al suelo
+[2025.10.08-17.54.56:764][935]Cmd: TRANSACTION UNDO
+[2025.10.08-17.54.56:764][935]LogEditorTransaction: Undo Mover elementos
+[2025.10.08-17.55.09:880][831]Cmd: TRANSACTION UNDO
+[2025.10.08-17.55.09:880][831]LogEditorTransaction: Undo Acoplar elementos al suelo
+[2025.10.08-17.55.18:584][391]Cmd: TRANSACTION UNDO
+[2025.10.08-17.55.18:586][391]LogEditorTransaction: Undo Haciendo clic en actores
+[2025.10.08-17.55.19:311][414]Cmd: TRANSACTION UNDO
+[2025.10.08-17.55.19:311][414]LogEditorTransaction: Undo Haciendo clic en actores
+[2025.10.08-17.55.19:709][439]Cmd: TRANSACTION UNDO
+[2025.10.08-17.55.19:709][439]LogEditorTransaction: Undo Haciendo clic en actores
+[2025.10.08-17.55.20:419][482]Cmd: TRANSACTION UNDO
+[2025.10.08-17.55.20:419][482]LogEditorTransaction: Undo Mover elementos
+[2025.10.08-17.57.16:044][572]Cmd: DUPLICATE
+[2025.10.08-17.57.16:044][572]Cmd: ACTOR DUPLICATE
+[2025.10.08-17.57.25:766][436]Cmd: DUPLICATE
+[2025.10.08-17.57.25:766][436]Cmd: ACTOR DUPLICATE
+[2025.10.08-17.57.52:015][753]Cmd: DUPLICATE
+[2025.10.08-17.57.52:015][753]Cmd: ACTOR DUPLICATE
+[2025.10.08-17.58.32:981][821]Cmd: TRANSACTION UNDO
+[2025.10.08-17.58.32:981][821]LogEditorTransaction: Undo Mover elementos
+[2025.10.08-17.59.17:103][722]LogStreaming: Display: FlushAsyncLoading(480): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.08-17.59.17:173][722]LogStaticMesh: Display: Malla estática de construcción SM_Rock (Estimación de memoria necesaria: 1.748838 MB)...
+[2025.10.08-17.59.17:184][722]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/Props/SM_Rock.SM_Rock
+[2025.10.08-17.59.17:219][722]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Props/SM_Rock.SM_Rock
+[2025.10.08-17.59.17:219][722]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Props/SM_Rock.SM_Rock
+[2025.10.08-17.59.17:220][722]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Props/SM_Rock.SM_Rock as actor: StaticMeshActor /Game/MyProject/HouseLvl.HouseLvl:PersistentLevel.StaticMeshActor_103
+[2025.10.08-17.59.19:506][841]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2025.10.08-17.59.19:512][841]LogEditorActor: Deleted 0 Actors (0.043 secs)
+[2025.10.08-17.59.19:525][841]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Props/SM_Rock.SM_Rock
+[2025.10.08-17.59.19:525][841]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Props/SM_Rock.SM_Rock
+[2025.10.08-17.59.19:527][841]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Props/SM_Rock.SM_Rock as actor: StaticMeshActor /Game/MyProject/HouseLvl.HouseLvl:PersistentLevel.StaticMeshActor_104
+[2025.10.08-17.59.24:821][170]Cmd: TRANSACTION UNDO
+[2025.10.08-17.59.24:821][170]LogEditorTransaction: Undo Mover elementos
+[2025.10.08-18.00.06:158][905]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8467.184570
+[2025.10.08-18.00.06:319][916]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.08-18.00.06:319][916]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8467.330078, Update Interval: 329.440582
+[2025.10.08-18.00.08:287][ 48]LogShaderCompilers: Display: ================================================
+[2025.10.08-18.00.08:288][ 48]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.10.08-18.00.08:288][ 48]LogShaderCompilers: Display: Total job queries 2575, among them cache hits 645 (25.05%), DDC hits 1824 (70.83%), Duplicates 92 (3.57%)
+[2025.10.08-18.00.08:288][ 48]LogShaderCompilers: Display: Tracking 1838 distinct input hashes that result in 1158 distinct outputs (63.00%)
+[2025.10.08-18.00.08:288][ 48]LogShaderCompilers: Display: RAM used: 11,75 MiB of 819,20 MiB budget. Usage: 1.43%
+[2025.10.08-18.00.08:288][ 48]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.10.08-18.00.08:288][ 48]LogShaderCompilers: Display: Shaders Compiled: 14
+[2025.10.08-18.00.08:288][ 48]LogShaderCompilers: Display: Jobs assigned 14, completed 14 (100%)
+[2025.10.08-18.00.08:288][ 48]LogShaderCompilers: Display: Average time worker was idle: 2258.77 s
+[2025.10.08-18.00.08:288][ 48]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.12 s
+[2025.10.08-18.00.08:288][ 48]LogShaderCompilers: Display: Job execution time: average 2.15 s, max 3.68 s
+[2025.10.08-18.00.08:288][ 48]LogShaderCompilers: Display: Job life time (pending + execution): average 2.20 s, max 3.72
+[2025.10.08-18.00.08:288][ 48]LogShaderCompilers: Display: Shader code size: total 122,527 KiB, numShaders 16, average 7,657 KiB, min 1,727 KiB, max 13,957 KiB
+[2025.10.08-18.00.08:288][ 48]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 16.15 s
+[2025.10.08-18.00.08:288][ 48]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.03%
+[2025.10.08-18.00.08:288][ 48]LogShaderCompilers: Display: Jobs were issued in 14 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.10.08-18.00.08:288][ 48]LogShaderCompilers: Display: Average processing rate: 0.87 jobs/sec
+[2025.10.08-18.00.08:288][ 48]LogShaderCompilers: Display: Total thread time: 20,506 s
+[2025.10.08-18.00.08:288][ 48]LogShaderCompilers: Display: Total thread preprocess time: 54,597 s
+[2025.10.08-18.00.08:288][ 48]LogShaderCompilers: Display: Percentage time preprocessing: 266.26%
+[2025.10.08-18.00.08:288][ 48]LogShaderCompilers: Display: Effective parallelization: 1.27 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.158673
+[2025.10.08-18.00.08:288][ 48]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.10.08-18.00.08:288][ 48]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    1 times, average 3.06 sec, max 3.06 sec, min 3.06 sec)
+[2025.10.08-18.00.08:289][ 48]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    2 times, average 2.11 sec, max 2.15 sec, min 2.07 sec)
+[2025.10.08-18.00.08:289][ 48]LogShaderCompilers: Display:                                                  FVelocityPS (compiled    1 times, average 1.49 sec, max 1.49 sec, min 1.49 sec)
+[2025.10.08-18.00.08:289][ 48]LogShaderCompilers: Display:                                                 FDepthOnlyPS (compiled    1 times, average 1.48 sec, max 1.48 sec, min 1.48 sec)
+[2025.10.08-18.00.08:289][ 48]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    5 times, average 1.11 sec, max 1.21 sec, min 0.98 sec)
+[2025.10.08-18.00.08:289][ 48]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.10.08-18.00.08:289][ 48]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 27.03% of total time (compiled    5 times, average 1.11 sec, max 1.21 sec, min 0.98 sec)
+[2025.10.08-18.00.08:289][ 48]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 20.62% of total time (compiled    2 times, average 2.11 sec, max 2.15 sec, min 2.07 sec)
+[2025.10.08-18.00.08:289][ 48]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 14.94% of total time (compiled    1 times, average 3.06 sec, max 3.06 sec, min 3.06 sec)
+[2025.10.08-18.00.08:289][ 48]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 11.66% of total time (compiled    3 times, average 0.80 sec, max 0.83 sec, min 0.73 sec)
+[2025.10.08-18.00.08:289][ 48]LogShaderCompilers: Display:                                                  FVelocityPS - 7.28% of total time (compiled    1 times, average 1.49 sec, max 1.49 sec, min 1.49 sec)
+[2025.10.08-18.00.08:289][ 48]LogShaderCompilers: Display: === Material stats ===
+[2025.10.08-18.00.08:289][ 48]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.10.08-18.00.08:289][ 48]LogShaderCompilers: Display: Materials Translated:    147
+[2025.10.08-18.00.08:289][ 48]LogShaderCompilers: Display: Material Total Translate Time: 0.21 s
+[2025.10.08-18.00.08:289][ 48]LogShaderCompilers: Display: Material Translation Only: 0.08 s (36%)
+[2025.10.08-18.00.08:289][ 48]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2025.10.08-18.00.08:289][ 48]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2025.10.08-18.00.08:289][ 48]LogShaderCompilers: Display: ================================================
+[2025.10.08-18.00.37:778][760]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Props/SM_Rock.SM_Rock
+[2025.10.08-18.00.37:778][760]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Props/SM_Rock.SM_Rock
+[2025.10.08-18.00.37:779][760]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Props/SM_Rock.SM_Rock as actor: StaticMeshActor /Game/MyProject/HouseLvl.HouseLvl:PersistentLevel.StaticMeshActor_105
+[2025.10.08-18.00.38:341][789]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2025.10.08-18.00.38:345][789]LogEditorActor: Deleted 0 Actors (0.028 secs)
+[2025.10.08-18.00.38:355][789]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Props/SM_Rock.SM_Rock
+[2025.10.08-18.00.38:355][789]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Props/SM_Rock.SM_Rock
+[2025.10.08-18.00.38:357][789]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Props/SM_Rock.SM_Rock as actor: StaticMeshActor /Game/MyProject/HouseLvl.HouseLvl:PersistentLevel.StaticMeshActor_106
+[2025.10.08-18.00.57:820][107]Cmd: DUPLICATE
+[2025.10.08-18.00.57:821][107]Cmd: ACTOR DUPLICATE
+[2025.10.08-18.01.06:259][667]Cmd: TRANSACTION UNDO
+[2025.10.08-18.01.06:261][667]LogEditorTransaction: Undo Mover elementos
+[2025.10.08-18.01.13:777][158]Cmd: DUPLICATE
+[2025.10.08-18.01.13:778][158]Cmd: ACTOR DUPLICATE
+[2025.10.08-18.01.29:790][209]LogRenderer: Using fallback RTPSO
+[2025.10.08-18.01.29:835][210]LogRenderer: Using fallback RTPSO
+[2025.10.08-18.01.29:849][211]LogRenderer: Using fallback RTPSO
+[2025.10.08-18.01.29:864][212]LogRenderer: Using fallback RTPSO
+[2025.10.08-18.01.29:880][213]LogRenderer: Using fallback RTPSO
+[2025.10.08-18.01.29:895][214]LogRenderer: Using fallback RTPSO
+[2025.10.08-18.01.29:911][215]LogRenderer: Using fallback RTPSO
+[2025.10.08-18.01.29:925][216]LogRenderer: Using fallback RTPSO
+[2025.10.08-18.01.29:941][217]LogRenderer: Using fallback RTPSO
+[2025.10.08-18.01.29:958][218]LogRenderer: Using fallback RTPSO
+[2025.10.08-18.01.29:973][219]LogRenderer: Using fallback RTPSO
+[2025.10.08-18.01.29:985][220]LogRenderer: Using fallback RTPSO
+[2025.10.08-18.01.29:993][220]LogD3D12RHI: Creating RTPSO with 16 shaders (0 cached, 1 new) took 202.66 ms. Compile time 194.82 ms, link time 7.81 ms.
+[2025.10.08-18.01.53:168][253]Cmd: DUPLICATE
+[2025.10.08-18.01.53:168][253]Cmd: ACTOR DUPLICATE
+[2025.10.08-18.03.10:034][892]LogStreaming: Display: FlushAsyncLoading(481): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.08-18.03.10:105][893]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2025.10.08-18.03.13:889][115]LogStreaming: Display: FlushAsyncLoading(482): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.08-18.03.13:922][115]LogMaterial: Display: Material /Game/StarterContent/Textures/T_Wood_Oak_Mat.T_Wood_Oak_Mat needed to have new flag set bUsedWithNanite !
+[2025.10.08-18.03.13:926][115]LogShaderCompilers: Display: Cancelled job 0x0000020DC6C1C800 with pending SubmitJob call.
+[2025.10.08-18.03.13:927][115]LogShaderCompilers: Display: Cancelled job 0x0000020DC6C11400 with pending SubmitJob call.
+[2025.10.08-18.03.13:927][115]LogShaderCompilers: Display: Cancelled job 0x0000020DC6C17800 with pending SubmitJob call.
+[2025.10.08-18.03.13:927][115]LogShaderCompilers: Display: Cancelled job 0x0000020DC6C18200 with pending SubmitJob call.
+[2025.10.08-18.03.13:928][115]LogShaderCompilers: Display: Cancelled job 0x0000020DBA700000 with pending SubmitJob call.
+[2025.10.08-18.03.13:928][115]LogShaderCompilers: Display: Cancelled job 0x0000020DBA70B400 with pending SubmitJob call.
+[2025.10.08-18.03.13:929][115]LogShaderCompilers: Display: Cancelled job 0x0000020DC6C13C00 with pending SubmitJob call.
+[2025.10.08-18.03.13:933][115]LogShaderCompilers: Display: Cancelled job 0x0000020DBA701E00 with pending SubmitJob call.
+[2025.10.08-18.03.13:942][115]LogShaderCompilers: Display: Cancelled job 0x0000020DBA707800 with pending SubmitJob call.
+[2025.10.08-18.03.13:943][115]LogShaderCompilers: Display: Cancelled job 0x0000020DBA70E600 with pending SubmitJob call.
+[2025.10.08-18.03.13:949][115]LogShaderCompilers: Display: Cancelled job 0x0000020DBA70DC00 with pending SubmitJob call.
+[2025.10.08-18.03.13:952][115]LogShaderCompilers: Display: Cancelled job 0x0000020DBA706400 with pending SubmitJob call.
+[2025.10.08-18.03.13:953][115]LogShaderCompilers: Display: Cancelled job 0x0000020DBA704600 with pending SubmitJob call.
+[2025.10.08-18.03.13:957][115]LogShaderCompilers: Display: Cancelled job 0x0000020DBA700A00 with pending SubmitJob call.
+[2025.10.08-18.03.13:958][115]LogShaderCompilers: Display: Cancelled job 0x0000020DBA701400 with pending SubmitJob call.
+[2025.10.08-18.03.13:960][115]LogShaderCompilers: Display: Cancelled job 0x0000020DBA703200 with pending SubmitJob call.
+[2025.10.08-18.03.13:967][115]LogShaderCompilers: Display: Cancelled job 0x0000020E1E928200 with pending SubmitJob call.
+[2025.10.08-18.03.13:968][115]LogShaderCompilers: Display: Cancelled job 0x0000020E1E925000 with pending SubmitJob call.
+[2025.10.08-18.03.13:970][115]LogShaderCompilers: Display: Cancelled job 0x0000020DBA70AA00 with pending SubmitJob call.
+[2025.10.08-18.03.13:971][115]LogShaderCompilers: Display: Cancelled job 0x0000020E1E921E00 with pending SubmitJob call.
+[2025.10.08-18.03.13:976][115]LogShaderCompilers: Display: Cancelled job 0x0000020DBFFBB400 with pending SubmitJob call.
+[2025.10.08-18.03.13:981][115]LogShaderCompilers: Display: Cancelled job 0x0000020E252F4C20 with pending SubmitJob call.
+[2025.10.08-18.03.13:992][115]LogShaderCompilers: Display: Cancelled job 0x0000020E252F5F60 with pending SubmitJob call.
+[2025.10.08-18.03.14:000][115]LogShaderCompilers: Display: Cancelled job 0x0000020E252FFA40 with pending SubmitJob call.
+[2025.10.08-18.03.14:023][115]LogShaderCompilers: Display: Cancelled job 0x0000020DBA70BE00 with pending SubmitJob call.
+[2025.10.08-18.03.14:041][115]LogShaderCompilers: Display: Cancelled job 0x0000020DBFFB1400 with pending SubmitJob call.
+[2025.10.08-18.03.14:275][115]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2025.10.08-18.03.14:375][115]LogD3D12RHI: Waited for PSO creation for 200.000000ms
+[2025.10.08-18.03.14:575][115]LogD3D12RHI: Waited for PSO creation for 400.000000ms
+[2025.10.08-18.03.17:959][262]Cmd: TRANSACTION UNDO
+[2025.10.08-18.03.17:959][262]LogEditorTransaction: Undo Colocar objetos
+[2025.10.08-18.03.39:340][265]LogStreaming: Display: FlushAsyncLoading(483): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.08-18.04.10:893][ 59]LogStreaming: Display: FlushAsyncLoading(484): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.08-18.04.30:395][204]LogStreaming: Display: FlushAsyncLoading(485): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.08-18.05.12:413][770]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_2
+[2025.10.08-18.05.15:597][927]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_3
+[2025.10.08-18.06.08:301][177]LogShaderCompilers: Display: ================================================
+[2025.10.08-18.06.08:301][177]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.10.08-18.06.08:301][177]LogShaderCompilers: Display: Total job queries 2669, among them cache hits 650 (24.35%), DDC hits 1832 (68.64%), Duplicates 96 (3.60%)
+[2025.10.08-18.06.08:301][177]LogShaderCompilers: Display: Tracking 1923 distinct input hashes that result in 1212 distinct outputs (63.03%)
+[2025.10.08-18.06.08:301][177]LogShaderCompilers: Display: RAM used: 12,19 MiB of 819,20 MiB budget. Usage: 1.49%
+[2025.10.08-18.06.08:302][177]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.10.08-18.06.08:302][177]LogShaderCompilers: Display: Shaders Compiled: 91
+[2025.10.08-18.06.08:302][177]LogShaderCompilers: Display: Jobs assigned 91, completed 91 (100%)
+[2025.10.08-18.06.08:302][177]LogShaderCompilers: Display: Average time worker was idle: 992.95 s
+[2025.10.08-18.06.08:302][177]LogShaderCompilers: Display: Time job spent in pending queue: average 0.15 s, longest 1.52 s
+[2025.10.08-18.06.08:302][177]LogShaderCompilers: Display: Job execution time: average 25.12 s, max 46.27 s
+[2025.10.08-18.06.08:302][177]LogShaderCompilers: Display: Job life time (pending + execution): average 25.27 s, max 46.52
+[2025.10.08-18.06.08:302][177]LogShaderCompilers: Display: Shader code size: total 872,758 KiB, numShaders 95, average 9,187 KiB, min 1,727 KiB, max 25,684 KiB
+[2025.10.08-18.06.08:302][177]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 70.83 s
+[2025.10.08-18.06.08:302][177]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.03%
+[2025.10.08-18.06.08:302][177]LogShaderCompilers: Display: Jobs were issued in 35 batches (only local compilation was used), average 2.60 jobs/batch
+[2025.10.08-18.06.08:302][177]LogShaderCompilers: Display: Average processing rate: 1.28 jobs/sec
+[2025.10.08-18.06.08:302][177]LogShaderCompilers: Display: Total thread time: 320,426 s
+[2025.10.08-18.06.08:302][177]LogShaderCompilers: Display: Total thread preprocess time: 56,687 s
+[2025.10.08-18.06.08:302][177]LogShaderCompilers: Display: Percentage time preprocessing: 17.69%
+[2025.10.08-18.06.08:302][177]LogShaderCompilers: Display: Effective parallelization: 4.52 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.565483
+[2025.10.08-18.06.08:302][177]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.10.08-18.06.08:302][177]LogShaderCompilers: Display:                                        FMicropolyRasterizeCS (compiled   10 times, average 9.46 sec, max 13.08 sec, min 7.41 sec)
+[2025.10.08-18.06.08:302][177]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled    1 times, average 7.56 sec, max 7.56 sec, min 7.56 sec)
+[2025.10.08-18.06.08:302][177]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    1 times, average 7.52 sec, max 7.52 sec, min 7.52 sec)
+[2025.10.08-18.06.08:302][177]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS (compiled    2 times, average 6.27 sec, max 7.53 sec, min 5.02 sec)
+[2025.10.08-18.06.08:302][177]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    1 times, average 5.81 sec, max 5.81 sec, min 5.81 sec)
+[2025.10.08-18.06.08:302][177]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.10.08-18.06.08:302][177]LogShaderCompilers: Display:                                               FHWRasterizePS - 32.80% of total time (compiled   30 times, average 3.50 sec, max 4.69 sec, min 2.39 sec)
+[2025.10.08-18.06.08:302][177]LogShaderCompilers: Display:                                        FMicropolyRasterizeCS - 29.52% of total time (compiled   10 times, average 9.46 sec, max 13.08 sec, min 7.41 sec)
+[2025.10.08-18.06.08:302][177]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 5.07% of total time (compiled    3 times, average 5.41 sec, max 8.15 sec, min 3.06 sec)
+[2025.10.08-18.06.08:302][177]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 4.58% of total time (compiled    6 times, average 2.45 sec, max 3.42 sec, min 2.07 sec)
+[2025.10.08-18.06.08:302][177]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 4.28% of total time (compiled   10 times, average 1.37 sec, max 2.20 sec, min 0.98 sec)
+[2025.10.08-18.06.08:303][177]LogShaderCompilers: Display: === Material stats ===
+[2025.10.08-18.06.08:303][177]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.10.08-18.06.08:303][177]LogShaderCompilers: Display: Materials Translated:    153
+[2025.10.08-18.06.08:303][177]LogShaderCompilers: Display: Material Total Translate Time: 0.22 s
+[2025.10.08-18.06.08:303][177]LogShaderCompilers: Display: Material Translation Only: 0.08 s (36%)
+[2025.10.08-18.06.08:303][177]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2025.10.08-18.06.08:303][177]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2025.10.08-18.06.08:303][177]LogShaderCompilers: Display: ================================================
+[2025.10.08-18.06.20:876][892]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8841.993164
+[2025.10.08-18.06.21:038][901]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.08-18.06.21:038][901]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8842.139648, Update Interval: 342.868134
+[2025.10.08-18.07.22:735][565]Cmd: TRANSACTION UNDO
+[2025.10.08-18.07.22:735][565]LogEditorTransaction: Undo Sustituir material usado en componentes
+[2025.10.08-18.07.34:884][199]LogSlate: Window 'Explorador de contenido' being destroyed
+[2025.10.08-18.07.34:903][199]LogSlate: Window 'Explorador de contenido' being destroyed
+[2025.10.08-18.07.40:251][515]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.08-18.07.40:395][515]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2025.10.08-18.07.40:424][515]LogSavePackage: Moving output files for package: /Game/MyProject/HouseLvl
+[2025.10.08-18.07.40:425][515]LogSavePackage: Moving 'D:/DOCUMENTOS/ESTUDIOS DE PROGRAMACION/ESPECIALIZACION/UNREAL ENGINE/UEProjects_2526/TEST01/Saved/HouseLvl5766BB3B4646342CFB284186CBF88D4A.tmp' to 'D:/DOCUMENTOS/ESTUDIOS DE PROGRAMACION/ESPECIALIZACION/UNREAL ENGINE/UEProjects_2526/TEST01/Content/MyProject/HouseLvl.umap'
+[2025.10.08-18.07.40:436][515]LogFileHelpers: Saving map 'HouseLvl' took 0.120
+[2025.10.08-18.07.40:449][515]LogFileHelpers: InternalPromptForCheckoutAndSave took 198.187 ms (total: 1.62 sec)
+[2025.10.08-18.07.40:496][515]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.08-18.07.40:496][515]LogContentValidation: Enabled validators:
+[2025.10.08-18.07.40:496][515]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.08-18.07.40:496][515]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.08-18.07.40:496][515]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.08-18.07.40:496][515]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.08-18.07.40:496][515]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.08-18.07.40:496][515]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.08-18.07.40:496][515]AssetCheck: /Game/MyProject/HouseLvl Validando recurso
+[2025.10.08-18.07.41:095][553]LogDebuggerCommands: Repeating last play command: Visor seleccionado
+[2025.10.08-18.07.41:105][553]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.08-18.07.41:144][553]LogPlayLevel: Creating play world package: /Game/MyProject/UEDPIE_0_HouseLvl
+[2025.10.08-18.07.41:154][553]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009683s)
+[2025.10.08-18.07.41:154][553]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyProject/HouseLvl.HouseLvl to /Game/MyProject/UEDPIE_0_HouseLvl.HouseLvl (0.009759s)
+[2025.10.08-18.07.41:176][553]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2025.10.08-18.07.41:178][553]LogChaosDD: Creating Chaos Debug Draw Scene for world HouseLvl
+[2025.10.08-18.07.41:180][553]LogPlayLevel: PIE: World Init took: (0.002209s)
+[2025.10.08-18.07.41:181][553]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2025.10.08-18.07.41:181][553]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.08-18.07.41:181][553]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.08-18.07.41:181][553]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.08-18.07.41:181][553]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.08-18.07.41:181][553]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.08-18.07.41:181][553]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.08-18.07.41:181][553]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.08-18.07.41:181][553]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.08-18.07.41:181][553]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.08-18.07.41:181][553]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.08-18.07.41:181][553]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.08-18.07.41:184][553]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.08-18.07.41:237][553]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (G733 Gaming Headset)
+[2025.10.08-18.07.41:237][553]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.08-18.07.41:238][553]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.08-18.07.41:238][553]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.08-18.07.41:239][553]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2025.10.08-18.07.41:239][553]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2025.10.08-18.07.41:265][553]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2025.10.08-18.07.41:265][553]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2025.10.08-18.07.41:265][553]LogInit: FAudioDevice initialized with ID 3.
+[2025.10.08-18.07.41:265][553]LogAudio: Display: Audio Device (ID: 3) registered with world 'HouseLvl'.
+[2025.10.08-18.07.41:265][553]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2025.10.08-18.07.41:270][553]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.10.08-18.07.41:277][553]LogWorld: Bringing World /Game/MyProject/UEDPIE_0_HouseLvl.HouseLvl up for play (max tick rate 0) at 2025.10.08-20.07.41
+[2025.10.08-18.07.41:277][553]LogWorld: Bringing up level for play took: 0.006879
+[2025.10.08-18.07.41:280][553]LogOnline: OSS: Created online subsystem instance for: :Context_6
+[2025.10.08-18.07.41:288][553]PIE: El servidor ha iniciado sesión
+[2025.10.08-18.07.41:290][553]PIE: Tiempo de inicio total de la reproducción en el editor de 0,185 segundos.
+[2025.10.08-18.07.41:369][554]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.10.08-18.07.46:816][911]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.08-18.07.46:816][911]LogWorld: BeginTearingDown for /Game/MyProject/UEDPIE_0_HouseLvl
+[2025.10.08-18.07.46:816][911]LogWorld: UWorld::CleanupWorld for HouseLvl, bSessionEnded=true, bCleanupResources=true
+[2025.10.08-18.07.46:818][911]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.08-18.07.46:821][911]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.08-18.07.46:826][911]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.08-18.07.46:850][911]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.08-18.07.46:850][911]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2025.10.08-18.07.46:850][911]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3, StreamState=4
+[2025.10.08-18.07.46:852][911]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3, StreamState=2
+[2025.10.08-18.07.46:860][911]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.10.08-18.07.46:985][912]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2025.10.08-18.07.47:768][956]Cmd: SELECT NONE
+[2025.10.08-18.08.10:846][382]LogDebuggerCommands: Repeating last play command: Visor seleccionado
+[2025.10.08-18.08.10:856][382]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.08-18.08.10:856][382]LogPlayLevel: Creating play world package: /Game/MyProject/UEDPIE_0_HouseLvl
+[2025.10.08-18.08.10:868][382]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012252s)
+[2025.10.08-18.08.10:869][382]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyProject/HouseLvl.HouseLvl to /Game/MyProject/UEDPIE_0_HouseLvl.HouseLvl (0.012309s)
+[2025.10.08-18.08.10:891][382]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.10.08-18.08.10:894][382]LogChaosDD: Creating Chaos Debug Draw Scene for world HouseLvl
+[2025.10.08-18.08.10:896][382]LogPlayLevel: PIE: World Init took: (0.002260s)
+[2025.10.08-18.08.10:897][382]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2025.10.08-18.08.10:897][382]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.08-18.08.10:897][382]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.08-18.08.10:897][382]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.08-18.08.10:897][382]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.08-18.08.10:897][382]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.08-18.08.10:897][382]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.08-18.08.10:897][382]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.08-18.08.10:897][382]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.08-18.08.10:897][382]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.08-18.08.10:897][382]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.08-18.08.10:897][382]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.08-18.08.10:900][382]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.08-18.08.10:952][382]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (G733 Gaming Headset)
+[2025.10.08-18.08.10:952][382]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.08-18.08.10:952][382]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.08-18.08.10:952][382]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.08-18.08.10:953][382]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2025.10.08-18.08.10:953][382]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2025.10.08-18.08.10:956][382]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2025.10.08-18.08.10:956][382]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2025.10.08-18.08.10:956][382]LogInit: FAudioDevice initialized with ID 4.
+[2025.10.08-18.08.10:956][382]LogAudio: Display: Audio Device (ID: 4) registered with world 'HouseLvl'.
+[2025.10.08-18.08.10:956][382]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2025.10.08-18.08.10:961][382]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.10.08-18.08.10:968][382]LogWorld: Bringing World /Game/MyProject/UEDPIE_0_HouseLvl.HouseLvl up for play (max tick rate 0) at 2025.10.08-20.08.10
+[2025.10.08-18.08.10:968][382]LogWorld: Bringing up level for play took: 0.006195
+[2025.10.08-18.08.10:971][382]LogOnline: OSS: Created online subsystem instance for: :Context_7
+[2025.10.08-18.08.10:978][382]PIE: El servidor ha iniciado sesión
+[2025.10.08-18.08.10:980][382]PIE: Tiempo de inicio total de la reproducción en el editor de 0,125 segundos.
+[2025.10.08-18.08.11:048][383]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.10.08-18.08.49:401][971]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.08-18.08.49:401][971]LogWorld: BeginTearingDown for /Game/MyProject/UEDPIE_0_HouseLvl
+[2025.10.08-18.08.49:401][971]LogWorld: UWorld::CleanupWorld for HouseLvl, bSessionEnded=true, bCleanupResources=true
+[2025.10.08-18.08.49:406][971]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.08-18.08.49:408][971]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.08-18.08.49:413][971]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.08-18.08.49:437][971]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.08-18.08.49:437][971]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2025.10.08-18.08.49:437][971]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4, StreamState=4
+[2025.10.08-18.08.49:440][971]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4, StreamState=2
+[2025.10.08-18.08.49:451][971]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2025.10.08-18.08.49:502][972]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2025.10.08-18.09.54:500][ 37]LogStreaming: Display: FlushAsyncLoading(486): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.08-18.09.54:504][ 37]LogStaticMesh: Display: Malla estática de construcción Shape_Cone (Estimación de memoria necesaria: 0.410477 MB)...
+[2025.10.08-18.09.54:508][ 37]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/Shapes/Shape_Cone.Shape_Cone
+[2025.10.08-18.09.57:722][237]Cmd: TRANSACTION UNDO
+[2025.10.08-18.09.57:722][237]LogEditorTransaction: Undo Editar Static Mesh
+[2025.10.08-18.10.03:546][447]LogStreaming: Display: FlushAsyncLoading(487): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.08-18.10.03:549][447]LogStaticMesh: Display: Malla estática de construcción Shape_QuadPyramid (Estimación de memoria necesaria: 0.020575 MB)...
+[2025.10.08-18.10.03:550][447]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Shapes/Shape_QuadPyramid.Shape_QuadPyramid
+[2025.10.08-18.10.29:255][960]LogRenderer: Using fallback RTPSO
+[2025.10.08-18.10.29:294][961]LogRenderer: Using fallback RTPSO
+[2025.10.08-18.10.29:311][962]LogRenderer: Using fallback RTPSO
+[2025.10.08-18.10.29:325][963]LogRenderer: Using fallback RTPSO
+[2025.10.08-18.10.29:341][964]LogRenderer: Using fallback RTPSO
+[2025.10.08-18.10.29:357][965]LogRenderer: Using fallback RTPSO
+[2025.10.08-18.10.29:374][966]LogRenderer: Using fallback RTPSO
+[2025.10.08-18.10.29:389][967]LogRenderer: Using fallback RTPSO
+[2025.10.08-18.10.29:403][968]LogRenderer: Using fallback RTPSO
+[2025.10.08-18.10.29:414][969]LogRenderer: Using fallback RTPSO
+[2025.10.08-18.10.29:427][970]LogRenderer: Using fallback RTPSO
+[2025.10.08-18.10.29:442][971]LogRenderer: Using fallback RTPSO
+[2025.10.08-18.10.29:455][972]LogRenderer: Using fallback RTPSO
+[2025.10.08-18.10.29:468][973]LogRenderer: Using fallback RTPSO
+[2025.10.08-18.10.29:471][973]LogD3D12RHI: Creating RTPSO with 19 shaders (0 cached, 3 new) took 216.31 ms. Compile time 209.70 ms, link time 6.59 ms.
+[2025.10.08-18.12.51:874][250]Cmd: TRANSACTION UNDO
+[2025.10.08-18.12.51:874][250]LogEditorTransaction: Undo Mover elementos
+[2025.10.08-18.13.03:017][176]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9244.091797
+[2025.10.08-18.13.03:155][188]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.08-18.13.03:155][188]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9244.218750, Update Interval: 323.996704
+[2025.10.08-18.16.35:424][423]Cmd: TRANSACTION UNDO
+[2025.10.08-18.16.35:424][423]LogEditorTransaction: Undo Mover elementos
+[2025.10.08-18.17.42:196][ 19]Cmd: TRANSACTION UNDO
+[2025.10.08-18.17.42:196][ 19]LogEditorTransaction: Undo Hacer clic en elementos
+[2025.10.08-18.17.42:488][ 28]Cmd: TRANSACTION UNDO
+[2025.10.08-18.17.42:488][ 28]LogEditorTransaction: Undo Hacer clic en el fondo
+[2025.10.08-18.17.42:742][ 32]Cmd: TRANSACTION UNDO
+[2025.10.08-18.17.42:742][ 32]LogEditorTransaction: Undo Establecer visibilidad de artículo
+[2025.10.08-18.17.42:975][ 45]Cmd: TRANSACTION UNDO
+[2025.10.08-18.17.42:976][ 45]LogEditorTransaction: Undo Hacer clic en elementos
+[2025.10.08-18.17.43:179][ 47]Cmd: TRANSACTION UNDO
+[2025.10.08-18.17.43:179][ 47]LogEditorTransaction: Undo Hacer clic en elementos
+[2025.10.08-18.17.43:371][ 53]Cmd: TRANSACTION UNDO
+[2025.10.08-18.17.43:371][ 53]LogEditorTransaction: Undo Hacer clic en elementos
+[2025.10.08-18.17.43:613][ 69]Cmd: TRANSACTION UNDO
+[2025.10.08-18.17.43:613][ 69]LogEditorTransaction: Undo Hacer clic en el fondo
+[2025.10.08-18.17.43:835][ 73]Cmd: TRANSACTION UNDO
+[2025.10.08-18.17.43:835][ 73]LogEditorTransaction: Undo Acoplar elementos al suelo
+[2025.10.08-18.17.44:040][ 86]Cmd: TRANSACTION UNDO
+[2025.10.08-18.17.44:040][ 86]LogEditorTransaction: Undo Hacer clic en elementos
+[2025.10.08-18.17.44:253][100]Cmd: TRANSACTION UNDO
+[2025.10.08-18.17.44:253][100]LogEditorTransaction: Undo Hacer clic en el fondo
+[2025.10.08-18.17.44:443][102]Cmd: TRANSACTION UNDO
+[2025.10.08-18.17.44:443][102]LogEditorTransaction: Undo Escalar elementos
+[2025.10.08-18.17.44:609][112]Cmd: TRANSACTION UNDO
+[2025.10.08-18.17.44:609][112]LogEditorTransaction: Undo Establecer escala
+[2025.10.08-18.17.44:779][122]Cmd: TRANSACTION UNDO
+[2025.10.08-18.17.44:780][122]LogEditorTransaction: Undo Establecer escala
+[2025.10.08-18.17.44:939][131]Cmd: TRANSACTION UNDO
+[2025.10.08-18.17.44:939][131]LogEditorTransaction: Undo Escoger ubicación
+[2025.10.08-18.17.45:124][142]Cmd: TRANSACTION UNDO
+[2025.10.08-18.17.45:124][142]LogEditorTransaction: Undo Escalar elementos
+[2025.10.08-18.17.45:311][153]Cmd: TRANSACTION UNDO
+[2025.10.08-18.17.45:311][153]LogEditorTransaction: Undo Mover elementos
+[2025.10.08-18.17.45:484][163]Cmd: TRANSACTION UNDO
+[2025.10.08-18.17.45:485][163]LogEditorTransaction: Undo Mover elementos
+[2025.10.08-18.17.45:659][173]Cmd: TRANSACTION UNDO
+[2025.10.08-18.17.45:659][173]LogEditorTransaction: Undo Mover elementos
+[2025.10.08-18.17.45:866][183]Cmd: TRANSACTION UNDO
+[2025.10.08-18.17.45:866][183]LogEditorTransaction: Undo Establecer escala
+[2025.10.08-18.17.46:033][187]Cmd: TRANSACTION UNDO
+[2025.10.08-18.17.46:033][187]LogEditorTransaction: Undo Establecer escala
+[2025.10.08-18.17.46:226][192]Cmd: TRANSACTION UNDO
+[2025.10.08-18.17.46:226][192]LogEditorTransaction: Undo Escoger ubicación
+[2025.10.08-18.17.46:371][196]Cmd: TRANSACTION UNDO
+[2025.10.08-18.17.46:371][196]LogEditorTransaction: Undo Escoger ubicación
+[2025.10.08-18.17.46:550][208]Cmd: TRANSACTION UNDO
+[2025.10.08-18.17.46:550][208]LogEditorTransaction: Undo Establecer escala
+[2025.10.08-18.17.46:738][219]Cmd: TRANSACTION UNDO
+[2025.10.08-18.17.46:738][219]LogEditorTransaction: Undo Mover elementos
+[2025.10.08-18.17.46:924][230]Cmd: TRANSACTION UNDO
+[2025.10.08-18.17.46:924][230]LogEditorTransaction: Undo Mover elementos
+[2025.10.08-18.17.47:111][241]Cmd: TRANSACTION UNDO
+[2025.10.08-18.17.47:111][241]LogEditorTransaction: Undo Mover elementos
+[2025.10.08-18.17.47:300][252]Cmd: TRANSACTION UNDO
+[2025.10.08-18.17.47:300][252]LogEditorTransaction: Undo Escalar elementos
+[2025.10.08-18.17.47:489][263]Cmd: TRANSACTION UNDO
+[2025.10.08-18.17.47:489][263]LogEditorTransaction: Undo Escalar elementos
+[2025.10.08-18.17.47:679][274]Cmd: TRANSACTION UNDO
+[2025.10.08-18.17.47:679][274]LogEditorTransaction: Undo Mover elementos
+[2025.10.08-18.17.47:951][291]Cmd: TRANSACTION UNDO
+[2025.10.08-18.17.47:951][291]LogEditorTransaction: Undo Mover elementos
+[2025.10.08-18.17.48:345][316]Cmd: TRANSACTION UNDO
+[2025.10.08-18.17.48:345][316]LogEditorTransaction: Undo Mover elementos
+[2025.10.08-18.17.48:717][340]Cmd: TRANSACTION UNDO
+[2025.10.08-18.17.48:717][340]LogEditorTransaction: Undo Mover elementos
+[2025.10.08-18.17.49:113][363]Cmd: TRANSACTION UNDO
+[2025.10.08-18.17.49:113][363]LogEditorTransaction: Undo Hacer clic en elementos
+[2025.10.08-18.17.49:386][368]Cmd: TRANSACTION UNDO
+[2025.10.08-18.17.49:386][368]LogEditorTransaction: Undo Establecer visibilidad de artículo
+[2025.10.08-18.17.49:835][380]Cmd: TRANSACTION UNDO
+[2025.10.08-18.17.49:835][380]LogEditorTransaction: Undo Hacer clic en elementos
+[2025.10.08-18.17.50:278][394]Cmd: TRANSACTION UNDO
+[2025.10.08-18.17.50:278][394]LogEditorTransaction: Undo Mover elementos
+[2025.10.08-18.17.50:689][420]Cmd: TRANSACTION UNDO
+[2025.10.08-18.17.50:690][420]LogEditorTransaction: Undo Escalar elementos
+[2025.10.08-18.17.51:027][441]Cmd: TRANSACTION UNDO
+[2025.10.08-18.17.51:028][441]LogEditorTransaction: Undo Mover elementos
+[2025.10.08-18.17.51:759][486]Cmd: TRANSACTION UNDO
+[2025.10.08-18.17.51:759][486]LogEditorTransaction: Undo Escalar elementos
+[2025.10.08-18.17.52:174][511]Cmd: TRANSACTION UNDO
+[2025.10.08-18.17.52:175][511]LogEditorTransaction: Undo Escalar elementos
+[2025.10.08-18.17.52:553][535]Cmd: TRANSACTION UNDO
+[2025.10.08-18.17.52:553][535]LogEditorTransaction: Undo Escalar elementos
+[2025.10.08-18.17.53:279][580]Cmd: TRANSACTION UNDO
+[2025.10.08-18.17.53:279][580]LogEditorTransaction: Undo Mover elementos
+[2025.10.08-18.17.53:946][605]Cmd: TRANSACTION UNDO
+[2025.10.08-18.17.53:946][605]LogEditorTransaction: Undo Editar Static Mesh
+[2025.10.08-18.17.56:447][759]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.08-18.17.56:565][759]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2025.10.08-18.17.56:597][759]LogSavePackage: Moving output files for package: /Game/MyProject/HouseLvl
+[2025.10.08-18.17.56:597][759]LogSavePackage: Moving 'D:/DOCUMENTOS/ESTUDIOS DE PROGRAMACION/ESPECIALIZACION/UNREAL ENGINE/UEProjects_2526/TEST01/Saved/HouseLvl9E41284B461454F2845E0E8B5F6B58B6.tmp' to 'D:/DOCUMENTOS/ESTUDIOS DE PROGRAMACION/ESPECIALIZACION/UNREAL ENGINE/UEProjects_2526/TEST01/Content/MyProject/HouseLvl.umap'
+[2025.10.08-18.17.56:608][759]LogFileHelpers: Saving map 'HouseLvl' took 0.092
+[2025.10.08-18.17.56:624][759]LogFileHelpers: InternalPromptForCheckoutAndSave took 177.103 ms (total: 1.80 sec)
+[2025.10.08-18.17.56:666][759]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.08-18.17.56:666][759]LogContentValidation: Enabled validators:
+[2025.10.08-18.17.56:666][759]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.08-18.17.56:666][759]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.08-18.17.56:666][759]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.08-18.17.56:667][759]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.08-18.17.56:667][759]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.08-18.17.56:667][759]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.08-18.17.56:667][759]AssetCheck: /Game/MyProject/HouseLvl Validando recurso
